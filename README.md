@@ -2,6 +2,8 @@
 
 *Retrouver les remèdes oubliés dans les textes anciens.*
 
+![Démo de Panacea : accueil, graphe de connaissances, zone des remèdes oubliés, puis une réponse sourcée](docs/demo.gif)
+
 Panacea analyse un traité ancien de plantes médicinales, *The Complete Herbal*
 de Nicholas Culpeper (1653, domaine public, Projet Gutenberg n° 49513). Elle en
 extrait des connaissances, les croise avec la chimie (Wikidata) et la recherche

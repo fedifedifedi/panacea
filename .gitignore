@@ -12,3 +12,6 @@ data/index/
 *.tmp
 .DS_Store
 Thumbs.db
+
+# Sorties de la video de demonstration (regenerables)
+demo/output/

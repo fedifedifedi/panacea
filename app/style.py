@@ -124,7 +124,8 @@ header[data-testid="stHeader"] {{ background: transparent; }}
 .block-container {{ max-width: {s["max_width"]}; padding: 3.4rem 2.2rem 2rem; }}
 h1, h2, h3, h4, h5 {{ font-family: {f["ui"]} !important; color: var(--text); letter-spacing: -.01em; }}
 a, .stApp [data-testid="stMarkdownContainer"] a {{ color: var(--accent-ink) !important; }}
-.st-key-graph_tile iframe {{ border: 0 !important; border-radius: var(--radius-sm); }}
+.stApp iframe {{ border: 0 !important; outline: 0 !important; border-radius: var(--radius-sm);
+  background: var(--bg); }}
 [data-testid="stCaptionContainer"], .stCaption {{ color: var(--muted) !important; }}
 
 /* ---------- Cartes : un seul style ---------- */

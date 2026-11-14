@@ -173,6 +173,9 @@ def tooltip(n: str, d: dict, G: nx.Graph) -> str:
 EXTRA_HTML = """
 <style>
   html, body { background: __BG__; margin: 0; height: 100%; overflow: hidden; }
+  /* Pas de barre de chargement : le graphe s'affiche tout de suite et se déploie en direct
+     (le calcul préalable est désactivé, la barre ne disparaîtrait jamais seule) */
+  #loadingBar { display: none !important; }
   #mynetwork { border: 0 !important; }
   .vis-tooltip { max-width: 460px; white-space: normal !important; padding: 9px 11px !important;
                  font: 13px/1.5 Inter, system-ui, 'Segoe UI', sans-serif;
@@ -239,7 +242,7 @@ def export_html(G: nx.Graph, path: Path) -> None:
       "physics": {"solver": "forceAtlas2Based",
                   "forceAtlas2Based": {"gravitationalConstant": -60, "springLength": 90,
                                        "avoidOverlap": 0.4},
-                  "stabilization": {"iterations": 300}},
+                  "stabilization": {"enabled": false}},
       "interaction": {"hover": true, "tooltipDelay": 120, "hideEdgesOnDrag": true}
     }""")
 

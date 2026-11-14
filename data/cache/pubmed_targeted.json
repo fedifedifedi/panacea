@@ -342,5 +342,76 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/30627973/"
       }
     ]
+  },
+  "\"Papaver somniferum\"[tiab] AND (cough OR antitussive) AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "35674306",
+        "title": "Opium, Street Opium, and Cancer Risk.",
+        "year": 2022,
+        "journal": "Current pharmaceutical design",
+        "abstract": "Opium is defined as the air-dried latex obtained by incision from the unripe capsules of Papaver somniferum L. Opium is a complex mixture that contains approximately 10% morphine and 2% codeine. It is commonly used to prepare opium tinctures for people with chronic diarrhea. Morphine and related opioids are powerful but highly addictive analgesics; designing less addictive opioids is an active area of pharmaceutical research that may lead to significant improvements in chronic pain management. Recently, the International Agency for Research on Cancer (IARC) has classified opium consumption as carcinogenic to humans (Group 1) based on sufficient evidence of carcinogenicity in human studies. However, all human studies analyzed by the IARC Working Group included participants who consumed opium that was mixed, adulterated, and/or contaminated with known and probable human carcinogens (e.g., tarry residues of combusted opium, arsenic, lead, and chromium). The working group considered that these carcinogens were part of the complex mixture that opium is, rather than co-exposure or confounders. No evidence of carcinogenicity was available for pure opium in human, animal, or mechanistic studies. To avoid confusion and concern among health professionals and patients using medicinal opium preparations and in scientists involved in the design and development of new opium derivatives, opium should be classified in Group 3 (not classifiable as to its carcinogenicity to humans). The term 'street opium' could be used to refer to opium that probably contains human carcinogens not present in pure opium and should remain in Group 1 (carcinogenic to humans).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35674306/"
+      },
+      {
+        "pmid": "25583437",
+        "title": "Noscapine comes of age.",
+        "year": 2015,
+        "journal": "Phytochemistry",
+        "abstract": "Noscapine is a phthalideisoquinoline alkaloid, which represents a class of plant specialized metabolites within the large and structurally diverse group of benzylisoquinoline alkaloids. Along with the narcotic analgesic morphine, noscapine is a major alkaloid in the latex of opium poppy (Papaver somniferum) that has long been used as a cough suppressant and has undergone extensive investigation as a potential anticancer drug. Cultivated opium poppy plants remain the only commercial source of noscapine. Despite its isolation from opium more than two centuries ago, the almost complete biosynthesis of noscapine has only recently been established based on an impressive combination of molecular genetics, functional genomics, and metabolic biochemistry. In this review, we provide a historical account of noscapine from its discovery through to initial investigations of its formation in opium poppy. We also describe recent breakthroughs that have led to an elucidation of the noscapine biosynthetic pathway, and we discuss the pharmacological properties that have prompted intensive evaluation of the potential pharmaceutical applications of noscapine and several semi-synthetic derivatives. Finally, we speculate on the future potential for the production of noscapine using metabolic engineering and synthetic biology in plants and microbes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25583437/"
+      },
+      {
+        "pmid": "31336283",
+        "title": "Opium poisoning in modern times. An overview.",
+        "year": 2019,
+        "journal": "Forensic science international",
+        "abstract": "Opium is a substance extracted from Papaver somniferum L that is chronically abused specially in the traditional production regions. Reports on opium poisoning has largely disappeared from the occidental literature on drug problems but recent scientific articles show cases of death related to opium in industrialized countries. This fact led us to consider the interest of knowing the state of the art of acute opium intoxication in modern times. This work shows a compilation of these uncommon cases occurred in different settings and circumstances. Data were obtained by a computer assisted search of the literature using the key words \"opium poisoning\", \"poppy\", \"poppy seeds\", and \"papaver somniferum\" in PubMed, accompanied by a hand search of the reference lists of all articles for any relevant studies not included in the database. In addition, Google Scholar, government reports, and cases adequately documented on websites were reviewed. Type 1 cases, Accidental opium intoxications when it is used as a recreational drug: Reported cases came mainly from industrialized countries. They were mostly male with a range age of 17-64 years. Many had antecedents of alcoholism or drug abuse and opium tea was used as a substitute of heroin. Rachacha has caused poisonings in France and has been detected in a stash in Spain. Toxicological analysis was documented in forensic cases. The danger of this renewed interest in opium is exemplified in that many of the poisoning cases resulted in fatalities. Type 2 cases, Accidental opium intoxications in children or adults when it used as folk remedy: Pediatric intoxication after the use of opium as folk remedy are mainly published in traditional opium-producing areas with a long history of use or ethnic communities in England or USA. Addiction to opium was common among relatives. Type 3 cases, Opium intoxications with poppy seeds consumed as food: Due to excessive consumption of opium seeds as food, sporadic cases of mild toxicity had been reported and morphine contents were documented. Type 4 cases: Accidental opium intoxications when using the abdominal or pelvic cavity for concealing the drug: Accidental opium body packer intoxications are seen in patients who traveled from illegal opium areas of production. Type 5 cases: Suicides by opium: Opium was a prevalent agent among cases of suicides in Iran but data are scarce.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31336283/"
+      }
+    ]
+  },
+  "\"Rosmarinus officinalis\"[tiab] AND (cough OR antitussive) AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "36144839",
+        "title": "Chemical and Antimicrobial Characterization of Mentha piperita L. and Rosmarinus officinalis L. Essential Oils and In Vitro Potential Cytotoxic Effect in Human Colorectal Carcinoma Cells.",
+        "year": 2022,
+        "journal": "Molecules (Basel, Switzerland)",
+        "abstract": "Colorectal cancer is one of the most frequently diagnosed forms of cancer, and the therapeutic solutions are frequently aggressive requiring improvements. Essential oils (EOs) are secondary metabolites of aromatic plants with important pharmacological properties that proved to be beneficial in multiple pathologies including cancer. Mentha piperita L. (M_EO) and Rosmarinus officinalis L. (R_EO) essential oils are well-known for their biological effects (antimicrobial, antioxidant, anti-inflammatory and cytotoxic in different cancer cells), but their potential as complementary treatment in colorectal cancer is underexplored. The aim of the present study was to investigate the M_EO and R_EO in terms of chemical composition, antioxidant, antimicrobial, and cytotoxic effects in a colorectal cancer cell line-HCT 116. The gas-chromatographic analysis revealed menthone and menthol, and eucalyptol, α-pinene and L-camphor as major compounds in M_EO and R_EO respectively. M_EO exhibited potent antimicrobial activity, moderate antioxidant activity and a low cytotoxic effect in HCT 116 cells. R_EO presented a significant cytotoxicity in colorectal cancer cells and a low antimicrobial effect. The cytotoxic effect on non-cancerous cell line HaCaT was not significant for both essential oils. These results may provide an experimental basis for further research concerning the potential use of M_EO and R_EO for anticancer treatment.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36144839/"
+      },
+      {
+        "pmid": "35125554",
+        "title": "The Effect of Phytocompounds of Medicinal Plants on Coronavirus (2019-NCOV) Infection.",
+        "year": 2022,
+        "journal": "Pharmaceutical chemistry journal",
+        "abstract": "The recent outbreak of coronavirus disease 2019 (COVID-19) is a respiratory infection and it can spread from animal to person, person to person through coughing or physical contact. Recent studies revealed that the genome sequence of this pandemic disease is very similar to that of SARS-CoV, thus, there are not yet effective treatments that target the 2019-nCoV virus. Medicinal plants present a potential solution to resolve the drug problem. In fact, the bioactive compounds such as phenols, flavonoids, monoterpenes, and phenylpropanoids, derived from several herbs such as Eucalyptus globulus, Mentha spicata, Nigella sativa, Rosmarinus officinalis, Thymus capitatus and Zingiber officinale could be used to develop formal drugs against several diseases with no or minimal side effects. In this paper, we describe the potential antiviral properties of several medicinal plants against Coronaviridae family viruses such as SARS, MERS, and IBV. Besides, we review various species of medicinal herbs and their derived phytochemical compounds in terms of their immunomodulatory bioactivities and antiviral activity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35125554/"
+      },
+      {
+        "pmid": "33152054",
+        "title": "Cell death and biomass reduction in biofilms of multidrug resistant extended spectrum β-lactamase-producing uropathogenic Escherichia coli isolates by 1,8-cineole.",
+        "year": 2020,
+        "journal": "PloS one",
+        "abstract": "Escherichia coli is the most frequent agent of urinary tract infections in humans. The emergence of uropathogenic multidrug-resistant (MDR) E. coli strains that produce extended spectrum β-lactamases (ESBL) has created additional problems in providing adequate treatment of urinary tract infections. We have previously reported the antimicrobial activity of 1,8-cineole, one of the main components of Rosmarinus officinalis volatile oil, against Gram negative bacteria during planktonic growth. Here, we evaluated the antibiofilm activity of 1,8-cineole against pre-formed mature biofilms of MDR ESBL-producing uropathogenic E. coli clinical strains by carrying out different technical approaches such as counting of viable cells, determination of biofilm biomass by crystal violet staining, and live/dead stain for confocal microscopy and flow cytometric analyses. The plant compound showed a concentration- and time-dependent antibiofilm activity over pre-formed biofilms. After a 1 h treatment with 1% (v/v) 1,8-cineole, a significant decrease in viable biofilm cell numbers (3-log reduction) was observed. Biofilms of antibiotic-sensitive and MDR ESBL-producing E. coli isolates were sensitive to 1,8-cineole exposure. The phytochemical treatment diminished the biofilm biomass by 48-65% for all four E. coli strain tested. Noteworthy, a significant cell death in the remaining biofilm was confirmed by confocal laser scanning microscopy after live/dead staining. In addition, the majority of the biofilm-detached cells after 1,8-cineole treatment were dead, as shown by flow cytometric assessment of live/dead-stained bacteria. Moreover, phytochemical-treated biofilms did not fully recover growth after 24 h in fresh medium. Altogether, our results support the efficacy of 1,8-cineole as a potential antimicrobial agent for the treatment of E. coli biofilm-associated infections.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33152054/"
+      }
+    ]
+  },
+  "\"Tanacetum parthenium\"[tiab] AND (cough OR antitussive) AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "25775817",
+        "title": "[Studies on the antimigraine action of Feverfew (Tanacetum parthenium (L.) Sch. Bip.)].",
+        "year": 2013,
+        "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
+        "abstract": "Feverfew was already known at the beginning of our era. In folk medicine, infusions from the leaves of Tanacetum parthenium were used in rheumatism, fever, and in migraine, menstrual pain, toothaches also digestive troubles, cough, or parasitic diseases. It has been proved that the biological activity of the plants resultsfrom the presence of the chemical compounds with different structures, including the the sesquiterpene lactones, which include partenolid, determining the antimigraine properties of plants. Research up to date on preclinical and clinical nature demonstrate the efficacy of plants in the prevention of migraine attacks. Based on the results can also conclude that the use of feverfew is safe and recorded side effects are mild and transient.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25775817/"
+      }
+    ]
   }
 }
