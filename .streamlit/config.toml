@@ -1,0 +1,16 @@
+# Thème des widgets natifs. Valeurs reprises de PALETTES["dark"] dans app/style.py
+# (THEME = "dark"). Pour revenir au clair : THEME = "light" dans style.py et les valeurs
+# de PALETTES["light"] ici (base = "light", fonds #FFFFFF / #F6F8F7, texte #14213D).
+[theme]
+base = "dark"
+primaryColor = "#0F7B5F"              # accent : vert émeraude (boutons, barres de progression)
+backgroundColor = "#0A1120"           # fond de page
+secondaryBackgroundColor = "#111A2C"  # fond des champs et tuiles
+textColor = "#E7EDF5"                 # texte principal
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true

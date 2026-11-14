@@ -1,0 +1,346 @@
+{
+  "(\"Tanacetum parthenium\"[tiab] OR feverfew[tiab]) AND (headache OR migraine) AND hasabstract": {
+    "fetched": "2026-11-13",
+    "articles": [
+      {
+        "pmid": "40378325",
+        "title": "Migraine Headache Prophylaxis.",
+        "year": 2025,
+        "journal": "American family physician",
+        "abstract": "In the United States, the prevalence of migraines is 11% to 14%; prevalence of chronic migraine is 1%. Goals of migraine prophylaxis include reduction in headache severity and frequency, improved response to acute treatment, fewer days with disability, improvement in quality of life, and empowerment of patients with a sense of control over the condition. Indications for consideration of preventive therapy include frequent headaches, failure of or contraindication to acute treatments, overuse of acute treatments, and patient preference. First-line medications include propranolol, metoprolol, topiramate, divalproex, valproate, and calcitonin gene-related peptide receptor antagonists. However, use of calcitonin gene-related peptide receptor antagonists is limited by cost and insurance coverage. Amitriptyline and venlafaxine are considered second-line medications due to a greater number of adverse events and less supporting evidence, respectively. OnabotulinumtoxinA (Botox) injection is approved for chronic migraine prophylaxis. It is as effective as other medications, is well tolerated, and has lower discontinuation rates than other drugs. Common migraine triggers include alcohol, anxiety, dehydration, excessive caffeine, eye strain, hunger, sleep deprivation, and stress. Physicians should recommend identification and management of migraine triggers. Cognitive behavior therapy, acupuncture, neural stimulators, and exercise are supported by varying levels of evidence and can be used individually or in combination with pharmacotherapy. Alternative agents, including feverfew, magnesium, and melatonin, have shown effectiveness and are generally well tolerated.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40378325/"
+      },
+      {
+        "pmid": "30600979",
+        "title": "Migraine Headache Prophylaxis.",
+        "year": 2019,
+        "journal": "American family physician",
+        "abstract": "Migraines impose significant health and financial burdens. Approximately 38% of patients with episodic migraines would benefit from preventive therapy, but less than 13% take prophylactic medications. Preventive medication therapy reduces migraine frequency, severity, and headache-related distress. Preventive therapy may also improve quality of life and prevent the progression to chronic migraines. Some indications for preventive therapy include four or more headaches a month, eight or more headache days a month, debilitating headaches, and medication-overuse headaches. Identifying and managing environmental, dietary, and behavioral triggers are useful strategies for preventing migraines. First-line medications established as effective based on clinical evidence include divalproex, topiramate, metoprolol, propranolol, and timolol. Medications such as amitriptyline, venlafaxine, atenolol, and nadolol are probably effective but should be second-line therapy. There is limited evidence for nebivolol, bisoprolol, pindolol, carbamazepine, gabapentin, fluoxetine, nicardipine, verapamil, nimodipine, nifedipine, lisinopril, and candesartan. Acebutolol, oxcarbazepine, lamotrigine, and telmisartan are ineffective. Newer agents target calcitonin gene-related peptide pain transmission in the migraine pain pathway and have recently received approval from the U.S. Food and Drug Administration; however, more studies of long-term effectiveness and adverse effects are needed. The complementary treatments petasites, feverfew, magnesium, and riboflavin are probably effective. Nonpharmacologic therapies such as relaxation training, thermal biofeedback combined with relaxation training, electromyographic feedback, and cognitive behavior therapy also have good evidence to support their use in migraine prevention.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30600979/"
+      },
+      {
+        "pmid": "24682554",
+        "title": "Gibt es Evidenz für die Wirksamkeit komplementärmedizinischer Therapien für die Migräneprophylaxe? [ger]",
+        "year": 2002,
+        "journal": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+        "abstract": "Complementary therapies are widely used and play an important role in the treatment of chronic pain syndromes. This review summarizes the evidences from randomized controlled trials for the effectiveness of a number of complementary therapies in migraine prophylaxis. The largest number of studies (a total of 15) is available for acupuncture. These studies are very heterogeneous in respect to interventions, methodological quality and outcome measurement, and the results are partly contradictory. The majority of trials, however, suggests that acupuncture is effective in migraine prophylaxis. The four existing, randomized and placebo-controlled trials on individualized homeopathy have shown conflicting results; clearly positive results have been reported only in the oldest, qualitatively least convincing study. Concerning herbal medicines the evidence is promising for extracts from Tanacetum parthenium (feverfew, five trials) and Petasites hybridus (one trial). Randomized trials on spinal manipulation for migraine prophylaxis have shown contradictory results. For neural therapy or complex strategies combining several complementary therapies only uncontrolled studies could be identified. In summary, there is promising evidence for the effectiveness of a number of complementary treatment options in migraine prophylaxis. Further research is clearly warranted.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24682554/"
+      }
+    ]
+  },
+  "(\"Allium sativum\"[tiab] OR garlic[tiab]) AND (infections OR antibacterial OR antimicrobial OR \"infected sores\" OR \"ear infections\") AND hasabstract": {
+    "fetched": "2026-11-13",
+    "articles": [
+      {
+        "pmid": "10594976",
+        "title": "Antimicrobial properties of allicin from garlic.",
+        "year": 1999,
+        "journal": "Microbes and infection",
+        "abstract": "Allicin, one of the active principles of freshly crushed garlic homogenates, has a variety of antimicrobial activities. Allicin in its pure form was found to exhibit i) antibacterial activity against a wide range of Gram-negative and Gram-positive bacteria, including multidrug-resistant enterotoxicogenic strains of Escherichia coli; ii) antifungal activity, particularly against Candida albicans; iii) antiparasitic activity, including some major human intestinal protozoan parasites such as Entamoeba histolytica and Giardia lamblia; and iv) antiviral activity. The main antimicrobial effect of allicin is due to its chemical reaction with thiol groups of various enzymes, e.g. alcohol dehydrogenase, thioredoxin reductase, and RNA polymerase, which can affect essential metabolism of cysteine proteinase activity involved in the virulence of E. histolytica.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10594976/"
+      },
+      {
+        "pmid": "25250996",
+        "title": "Impetigo: diagnosis and treatment.",
+        "year": 2014,
+        "journal": "American family physician",
+        "abstract": "Impetigo is the most common bacterial skin infection in children two to five years of age. There are two principal types: nonbullous (70% of cases) and bullous (30% of cases). Nonbullous impetigo, or impetigo contagiosa, is caused by Staphylococcus aureus or Streptococcus pyogenes, and is characterized by honey-colored crusts on the face and extremities. Impetigo primarily affects the skin or secondarily infects insect bites, eczema, or herpetic lesions. Bullous impetigo, which is caused exclusively by S. aureus, results in large, flaccid bullae and is more likely to affect intertriginous areas. Both types usually resolve within two to three weeks without scarring, and complications are rare, with the most serious being poststreptococcal glomerulonephritis. Treatment includes topical antibiotics such as mupirocin, retapamulin, and fusidic acid. Oral antibiotic therapy can be used for impetigo with large bullae or when topical therapy is impractical. Amoxicillin/clavulanate, dicloxacillin, cephalexin, clindamycin, doxycycline, minocycline, trimethoprim/sulfamethoxazole, and macrolides are options, but penicillin is not. Natural therapies such as tea tree oil; olive, garlic, and coconut oils; and Manuka honey have been anecdotally successful, but lack sufficient evidence to recommend or dismiss them as treatment options. Treatments under development include minocycline foam and Ozenoxacin, a topical quinolone. Topical disinfectants are inferior to antibiotics and should not be used. Empiric treatment considerations have changed with the increasing prevalence of antibiotic-resistant bacteria, with methicillin-resistant S. aureus, macrolide-resistant streptococcus, and mupirocin-resistant streptococcus all documented. Fusidic acid, mupirocin, and retapamulin cover methicillin-susceptible S. aureus and streptococcal infections. Clindamycin proves helpful in suspected methicillin-resistant S. aureus infections. Trimethoprim/sulfamethoxazole covers methicillin-resistant S. aureus infection, but is inadequate for streptococcal infection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25250996/"
+      },
+      {
+        "pmid": "25153873",
+        "title": "Allicin: chemistry and biological properties.",
+        "year": 2014,
+        "journal": "Molecules (Basel, Switzerland)",
+        "abstract": "Allicin (diallylthiosulfinate) is a defence molecule from garlic (Allium sativum L.) with a broad range of biological activities. Allicin is produced upon tissue damage from the non-proteinogenic amino acid alliin (S-allylcysteine sulfoxide) in a reaction that is catalyzed by the enzyme alliinase. Current understanding of the allicin biosynthetic pathway will be presented in this review. Being a thiosulfinate, allicin is a reactive sulfur species (RSS) and undergoes a redox-reaction with thiol groups in glutathione and proteins that is thought to be essential for its biological activity. Allicin is physiologically active in microbial, plant and mammalian cells. In a dose-dependent manner allicin can inhibit the proliferation of both bacteria and fungi or kill cells outright, including antibiotic-resistant strains like methicillin-resistant Staphylococcus aureus (MRSA). Furthermore, in mammalian cell lines, including cancer cells, allicin induces cell-death and inhibits cell proliferation. In plants allicin inhibits seed germination and attenuates root-development. The majority of allicin's effects are believed to be mediated via redox-dependent mechanisms. In sub-lethal concentrations, allicin has a variety of health-promoting properties, for example cholesterol- and blood pressure-lowering effects that are advantageous for the cardio-vascular system. Clearly, allicin has wide-ranging and interesting applications in medicine and (green) agriculture, hence the detailed discussion of its enormous potential in this review. Taken together, allicin is a fascinating biologically active compound whose properties are a direct consequence of the molecule's chemistry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25153873/"
+      }
+    ]
+  },
+  "\"Ophioglossum vulgatum\"[tiab] AND (adder OR epilepsy OR anticonvulsant OR seizures) AND hasabstract": {
+    "fetched": "2026-11-13",
+    "articles": [
+      {
+        "pmid": "34447885",
+        "title": "The complete chloroplast genome of Ophioglossum vulgatum L. (Ophioglossaceae) and phylogenetic analysis.",
+        "year": 2021,
+        "journal": "Mitochondrial DNA. Part B, Resources",
+        "abstract": "Ophioglossum vulgatum is a rare and ancient fern. In this study, the chloroplast (cp) genome of O. vulgatum was completely sequenced. The genome size is 138,562 bp, which contains a large single-copy (LSC) region with 99,351 bp, a small single-copy (SSC) region with 19,661 bp, and two inverted repeats (IR) regions of 9,775 bp each. Additionally, the overall GC content is 42.14%. It encodes a total 129 genes, including 84 protein-coding genes, 37 tRNA genes, and 8 rRNA genes. The Bayesian phylogenetic tree shows that O. vulgatum and O. californicum formed a monophyletic branch. This study can provide a molecular basis for studying the phylogenetic genomics and population variation of Ophioglossaceae.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34447885/"
+      },
+      {
+        "pmid": "40519883",
+        "title": "Allocation of Resources to Growth and Spore Production in a Fern Ophioglossum vulgatum L.: Effects of Mowing and Simulated Herbivory.",
+        "year": 2025,
+        "journal": "Ecology and evolution",
+        "abstract": "Natural selection drives how organisms allocate resources among competing demands such as growth, reproduction, and survival. In ferns, where reproductive and vegetative organs share developmental pathways, these trade-offs may be particularly strong under environmental disturbance. This study investigates how the rare fern Ophioglossum vulgatum allocates resources between vegetative growth and reproduction in response to vegetation removal (mowing) and simulated herbivory (clipping). A field experiment was conducted in wet meadow and peatland habitats in central Poland using a factorial design. Four treatments were applied: control, clipping, mowing, and clipping combined with mowing. Across 10 transects, 533 ramets were marked and monitored. Biometric measurements included leaf blade area, sporophore length, number of sporangia, and plant height. Data were analyzed using two-way ANOVA with clipping and mowing as fixed factors. Key results: Mowing significantly reduced plant height and leaf blade area, but only in unclipped plants (significant clipping × mowing interaction). Clipping alone, simulating herbivory, had no significant direct impact on any of the measured traits, although its interaction with mowing revealed important effects. Control plots exhibited the greatest allocation to reproduction, with larger sporophores and more sporangia. All treatments reduced reproductive output compared to controls, while vegetative performance remained stable or increased. Ramet abundance increased across all treatments, suggesting resilience through clonal propagation. These findings suggest that O. vulgatum exhibits trait-specific and context-dependent responses to disturbance. Reproductive traits are more sensitive than vegetative growth, and their suppression under mowing may limit reproductive success in managed habitats. Conservation strategies should account for both short-term physiological responses and long-term demographic processes. Management practices, particularly mowing, should be carefully timed and scaled to avoid unintended negative effects on reproduction in rare ferns such as O. vulgatum.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40519883/"
+      }
+    ]
+  },
+  "\"Ophioglossum vulgatum\"[tiab] AND (epilepsy OR anticonvulsant OR seizures) AND hasabstract": {
+    "fetched": "2026-11-13",
+    "articles": []
+  },
+  "\"Agrimonia eupatoria\"[tiab] AND (ail OR infections OR antibacterial OR antimicrobial OR ague OR \"infected sores\") AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "37895122",
+        "title": "Plant Extracts as Skin Care and Therapeutic Agents.",
+        "year": 2023,
+        "journal": "International journal of molecular sciences",
+        "abstract": "Natural ingredients have been used for centuries for skin treatment and care. Interest in the health effects of plants has recently increased due to their safety and applicability in the formulation of pharmaceuticals and cosmetics. Long-known plant materials as well as newly discovered ones are increasingly being used in natural products of plant origin. This review highlights the beneficial effects of plants and plant constituents on the skin, including moisturizing (e.g., Cannabis sativa, Hydrangea serrata, Pradosia mutisii and Carthamus tinctorius), anti-aging (e.g., Aegopodium podagraria, Euphorbia characias, Premna odorata and Warburgia salutaris), antimicrobial (e.g., Betula pendula and Epilobium angustifolium), antioxidant (e.g., Kadsura coccinea, Rosmarinus officinalis, Rubus idaeus and Spatholobus suberectus), anti-inflammatory (e.g., Antidesma thwaitesianum, Helianthus annuus, Oenanthe javanica, Penthorum chinense, Ranunculus bulumei and Zanthoxylum bungeanum), regenerative (e.g., Aloe vera, Angelica polymorpha, Digitaria ciliaris, Glycyrrihza glabra and Marantodes pumilum), wound healing (e.g., Agrimonia eupatoria, Astragalus floccosus, Bursera morelensis, Jatropha neopauciflora and Sapindus mukorossi), photoprotective (e.g., Astragalus gombiformis, Calea fruticose, Euphorbia characias and Posoqueria latifolia) and anti-tyrosinase activity (e.g., Aerva lanata, Bruguiera gymnorhiza, Dodonaea viscosa, Lonicera japonica and Schisandra chinensis), as well as their role as excipients in cosmetics (coloring (e.g., Beta vulgaris, Centaurea cyanus, Hibiscus sabdariffa and Rubia tinctiorum), protective and aromatic agents (e.g., Hyssopus officinalis, Melaleuca alternifolia, Pelargonium graveolens and Verbena officinalis)).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37895122/"
+      },
+      {
+        "pmid": "33646008",
+        "title": "The therapeutic effects of Agrimonia eupatoria L.",
+        "year": 2020,
+        "journal": "Physiological research",
+        "abstract": "Agrimonia eupatoria L. is an herb of the Rosaceae family, widely used in traditional (folk) medicine for its beneficial effects. Its water extracts (infusions and decoctions) are used in the treatment of airway and urinary system diseases, digestive tract diseases, and chronic wounds. Phytochemical analyses of Agrimonia eupatoria L. identified a variety of bioactive compounds including tannins, flavonoids, phenolic acids, triterpenoids and volatile oils possessing antioxidant, immunomodulatory and antimicrobial activities. The authors review the available literature sources examining and discussing the therapeutic and pharmacological effects of Agrimonia eupatoria L. at the molecular level in vitro and in vivo.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33646008/"
+      },
+      {
+        "pmid": "36836930",
+        "title": "In Situ Gel with Silver Nanoparticles Prepared Using Agrimonia eupatoria L. Shows Antibacterial Activity.",
+        "year": 2023,
+        "journal": "Life (Basel, Switzerland)",
+        "abstract": "Silver nanoparticles (Ag NPs) with antibacterial activity can be prepared in different ways. In our case, we used ecological green synthesis with Agrimonia eupatoria L. The plant extract was used with Ag NPs for the first time to prepare termosensitive in situ gels (ISGs). Such gels are used to heal human or animal skin and mucous membranes, as they can change from a liquid to solid state after application. Ag NPs were characterized with various techniques (FTIR, TEM, size distribution, zeta potential) and their antibacterial activity was tested against Staphylococcus aureus and Escherichia coli. In accordance with the TEM data, we prepared monodispersed spherical Ag NPs with an average size of about 20 nm. Organic active compounds from Agrimonia eupatoria L. were found on their surfaces using FTIR spectroscopy. Surprisingly, only the in situ gel with Ag NPs showed antibacterial activity against Escherichia coli, while Ag NPs alone did not. Ag NPs prepared via green synthesis using plants with medicinal properties and incorporated into ISGs have great potential for wound healing due to the antibacterial activity of Ag NPs and the dermatological activity of organic substances from plants.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36836930/"
+      }
+    ]
+  },
+  "\"Melissa officinalis\"[tiab] AND (ail OR infections OR antibacterial OR antimicrobial OR ague OR \"infected sores\") AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "37376614",
+        "title": "A Narrative Review of Alternative Symptomatic Treatments for Herpes Simplex Virus.",
+        "year": 2023,
+        "journal": "Viruses",
+        "abstract": "Herpes simplex virus-1 (HSV-1) and -2 (HSV-2) are large, spherically shaped, double-stranded DNA viruses that coevolved with Homo sapiens for over 300,000 years, having developed numerous immunoevasive mechanisms to survive the lifetime of their human host. Although in the continued absence of an acceptable prophylactic and therapeutic vaccine, approved pharmacologics (e.g., nucleoside analogs) hold benefit against viral outbreaks, while resistance and toxicity limit their universal application. Against these shortcomings, there is a long history of proven and unproven home remedies. With the breadth of purported alternative therapies, patients are exposed to risk of harm without proper information. Here, we examined the shortcomings of the current gold standard HSV therapy, acyclovir, and described several natural products that demonstrated promise in controlling HSV infection, including lemon balm, lysine, propolis, vitamin E, and zinc, while arginine, cannabis, and many other recreational drugs are detrimental. Based on this literature, we offered recommendations regarding the use of such natural products and their further investigation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37376614/"
+      },
+      {
+        "pmid": "37783716",
+        "title": "Use of medicinal plants during COVID-19 pandemic in Brazil.",
+        "year": 2023,
+        "journal": "Scientific reports",
+        "abstract": "Medicinal plants are an integrative and complementary health practice widely used by the population. However, its use is not without risks. This study assessed the profile and associated factors with the traditional use of medicinal plants. To this end, a cross-sectional survey study was conducted in a southeastern Brazilian city. Descriptive analysis was performed by frequency distribution and median and interquartile range. Associated factors with the use of medicinal plants were analyzed using Poisson regression with robust variance. A total of 641 people were interviewed, of whom 258 (40.2%) reported using medicinal plants. A total of 79 distinct plants were identified, of whom Melissa officinalis (31.0%), Peumus boldus (24.4%), Mentha spicata (20.9%), Matricaria recutita L. (18.2%), Rosmarinus officinalis (17.0%), and Foeniculum vulgare (14.7%) were the most used. There were no reports of medicinal plants used to treat COVID-19. However, anxiety was the most frequently cited indication for using medicinal plants, a health condition exacerbated by the COVID-19 pandemic. Furthermore, the use of medicinal plants for treating respiratory and gastrointestinal symptoms similar to those in COVID-19 has been identified. There was an association between the use of medicinal plants and females, non-white, lower schooling, higher income, and comorbidities.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37783716/"
+      },
+      {
+        "pmid": "16813459",
+        "title": "Natural remedies for Herpes simplex.",
+        "year": 2006,
+        "journal": "Alternative medicine review : a journal of clinical therapeutic",
+        "abstract": "Herpes simplex is a common viral infection of the skin or mucous membranes. The lesions caused by this infection are often painful, burning, or pruritic, and tend to recur in most patients. Short-term treatment with acyclovir can accelerate the healing of an acute outbreak, and continuous acyclovir therapy is often prescribed for people with frequent recurrences. While this drug can reduce the recurrence rate by 60-90 percent, it can also cause a wide array of side effects, including renal failure, hepatitis, and anaphylaxis. Safe and effective alternatives are therefore needed. There is evidence that certain dietary modifications and natural substances may be useful for treating active Herpes simplex lesions or preventing recurrences. Treatments discussed include lysine, vitamin C, zinc, vitamin E, adenosine monophosphate, and lemon balm (Melissa officinalis).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16813459/"
+      }
+    ]
+  },
+  "\"Salvia officinalis\"[tiab] AND (ail OR infections OR antibacterial OR antimicrobial OR ague OR \"infected sores\") AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "12482446",
+        "title": "Rosmarinic acid.",
+        "year": 2003,
+        "journal": "Phytochemistry",
+        "abstract": "Rosmarinic acid is an ester of caffeic acid and 3,4-dihydroxyphenyllactic acid. It is commonly found in species of the Boraginaceae and the subfamily Nepetoideae of the Lamiaceae. However, it is also found in species of other higher plant families and in some fern and hornwort species. Rosmarinic acid has a number of interesting biological activities, e.g. antiviral, antibacterial, antiinflammatory and antioxidant. The presence of rosmarinic acid in medicinal plants, herbs and spices has beneficial and health promoting effects. In plants, rosmarinic acid is supposed to act as a preformed constitutively accumulated defence compound. The biosynthesis of rosmarinic acid starts with the amino acids L-phenylalanine and L-tyrosine. All eight enzymes involved in the biosynthesis are known and characterised and cDNAs of several of the involved genes have been isolated. Plant cell cultures, e.g. from Coleus blumei or Salvia officinalis, accumulate rosmarinic acid in amounts much higher than in the plant itself (up to 36% of the cell dry weight). For this reason a biotechnological production of rosmarinic acid with plant cell cultures has been proposed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12482446/"
+      },
+      {
+        "pmid": "34171059",
+        "title": "Biodistribution of essential oil-conjugated silver nanoparticles.",
+        "year": 2020,
+        "journal": "Romanian journal of morphology and embryology = Revue roumaine de morphologie et embryologie",
+        "abstract": "The beneficial synergy between antimicrobial silver nanoparticles (AgNPs) and essential oils (EOs), with therapeutic effects that have been acknowledged and explored for a long time, opens the way towards developing new and promising alternatives for anti-infective therapies. With the aim to improve the cytocompatibility and stability of AgNPs and to overcome the volatilization of EOs, AgNPs conjugated with sage (Salvia officinalis) and cinnamon (Cinnamomum aromaticum) EOs were obtained in our study. The synthesis process was realized either by classical or ultrasound-assisted chemical reduction. Compositional and microstructural characterization of the as-obtained Ag@EO NPs was performed by X-ray diffraction (XRD), thermogravimetric analysis (TGA), scanning electron microscopy (SEM) and transmission electron microscopy (TEM). The biodistribution of Ag@EO NPs was evaluated on a mouse animal model.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34171059/"
+      },
+      {
+        "pmid": "36577209",
+        "title": "Carnosic acid suppressed the formation of NETs in alcoholic hepatosteatosis based on P2X7R-NLRP3 axis.",
+        "year": 2023,
+        "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+        "abstract": "BACKGROUND: Alcoholic liver disease (ALD) is accompanied by a disruption of lipid metabolism and an inflammatory response in the liver during the process of disease. Carnosic acid (CA), a natural diterpene extracted from Rosmarinus officinalis (rosemary) and Salvia officinalis (sage), has more pharmacological activities, which is known to be useful in the treatment of obesity and acts by regulating energy metabolism. However, the role and regulation mechanism of CA against ALD remain unclear. HYPOTHESIS: We hypothesized that CA might improve alcoholic-induced hepatosteatosis. STUDY DESIGN AND METHODS: The alcoholic liver disease model was established a mouse chronic ethanol feeding by Lieber-DeCarli control liquid feed (10 d) plus a single binge with or without CA administration. AML12 cells were exposed to ethanol for 24 h. Murine peritoneal macrophages (MPM) were stimulated with LPS and ATP. RESULTS: CA ameliorated lipid accumulation in the liver of mice in the NIAAA model, acting by inhibiting the expression of genes related to lipid synthesis. CA reduced alcohol-induced immune cell infiltration in the liver, and inhibited the activation of P2X7R-NLRP3 inflammasome, meanwhile blocked the formation of NETs in mouse livers tissue. In AML12 cells, CA attenuated the lipid accumulation triggered by ethanol stimulation, which was achieved by inhibiting the expression of SREBP1 and CA reduced the release of inflammatory factor IL-1β by inhibiting the activation of P2X7R-NLRP3. In MPM, IL-1β and HMGB1 were reduced after LPS/ATP stimulation in CA-treated cells and supernatant. CONCLUSIONS: CA attenuated alcohol-induced fat accumulation, suppressed the formation of NETs based on P2X7R-NLRP3 axis in mouse livers. Our data indicated that CA exerted hepatoprotective effects, which might be a promising candidate.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36577209/"
+      }
+    ]
+  },
+  "\"Tanacetum parthenium\"[tiab] AND (headache OR migraine OR head OR sores) AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "24682554",
+        "title": "Gibt es Evidenz für die Wirksamkeit komplementärmedizinischer Therapien für die Migräneprophylaxe? [ger]",
+        "year": 2002,
+        "journal": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+        "abstract": "Complementary therapies are widely used and play an important role in the treatment of chronic pain syndromes. This review summarizes the evidences from randomized controlled trials for the effectiveness of a number of complementary therapies in migraine prophylaxis. The largest number of studies (a total of 15) is available for acupuncture. These studies are very heterogeneous in respect to interventions, methodological quality and outcome measurement, and the results are partly contradictory. The majority of trials, however, suggests that acupuncture is effective in migraine prophylaxis. The four existing, randomized and placebo-controlled trials on individualized homeopathy have shown conflicting results; clearly positive results have been reported only in the oldest, qualitatively least convincing study. Concerning herbal medicines the evidence is promising for extracts from Tanacetum parthenium (feverfew, five trials) and Petasites hybridus (one trial). Randomized trials on spinal manipulation for migraine prophylaxis have shown contradictory results. For neural therapy or complex strategies combining several complementary therapies only uncontrolled studies could be identified. In summary, there is promising evidence for the effectiveness of a number of complementary treatment options in migraine prophylaxis. Further research is clearly warranted.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24682554/"
+      },
+      {
+        "pmid": "24867850",
+        "title": "Herbal therapy in migraine.",
+        "year": 2014,
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "abstract": "The use of herbal therapies is ancient and increasing worldwide. There is a growing body of evidence supporting the efficacy of various \"complementary\" and alternative medicine approaches in the management of headache disorders. Promising tools to treat migraine patients are herbal products. In particular constituents of Petasites hybridus, Tanacetum Parthenium and Ginkgo Biloba have shown antimigraine action in clinical studies. A miscellaneous of recreational drugs and other herbal remedies have been supposed to have a role in headache treatment but quality of clinical studies in this field is low and inconclusive. Further research is warranted in this area.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24867850/"
+      },
+      {
+        "pmid": "30627973",
+        "title": "Phytomedicines in the Treatment of Migraine.",
+        "year": 2019,
+        "journal": "CNS drugs",
+        "abstract": "Migraine is a disabling neurovascular disorder with few targeted, tolerable and effective treatments. Phytomedicines, or plant-based medicinal formulations, hold great promise in the identification of novel therapeutic targets in migraine. Many patients also turn toward herbal and plant-based therapies for the treatment of their migraines as clinical and preclinical evidence of efficacy increases. Patients seek effective and tolerable treatments instead of or in addition to current conventional pharmacologic therapies. We review some phytomedicines potentially useful for migraine treatment-feverfew (Tanacetum parthenium), butterbur (Petasites hybridus), marijuana (Cannabis spp.), Saint John's Wort (Hypericum perforatum) and the Damask rose (Rosa × damascena)-with respect to their mechanisms of action and evidence for treatment of migraine. The evidence for feverfew is mixed; butterbur is effective with potential risks of hepatotoxicity related to preparation; marijuana has not been shown to be effective in migraine treatment, and data are scant; Saint John's Wort shows relevant physiological activity but is a hepatic enzyme inducer and lacks clinical studies for this purpose; the Damask rose when used in topical preparations did not show efficacy in one clinical trial. Other plant preparations have been considered for migraine treatment but most without blinded randomized, placebo-controlled trial evidence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30627973/"
+      }
+    ]
+  },
+  "\"Allium sativum\"[tiab] AND (infections OR antibacterial OR antimicrobial OR \"infected sores\") AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "25153873",
+        "title": "Allicin: chemistry and biological properties.",
+        "year": 2014,
+        "journal": "Molecules (Basel, Switzerland)",
+        "abstract": "Allicin (diallylthiosulfinate) is a defence molecule from garlic (Allium sativum L.) with a broad range of biological activities. Allicin is produced upon tissue damage from the non-proteinogenic amino acid alliin (S-allylcysteine sulfoxide) in a reaction that is catalyzed by the enzyme alliinase. Current understanding of the allicin biosynthetic pathway will be presented in this review. Being a thiosulfinate, allicin is a reactive sulfur species (RSS) and undergoes a redox-reaction with thiol groups in glutathione and proteins that is thought to be essential for its biological activity. Allicin is physiologically active in microbial, plant and mammalian cells. In a dose-dependent manner allicin can inhibit the proliferation of both bacteria and fungi or kill cells outright, including antibiotic-resistant strains like methicillin-resistant Staphylococcus aureus (MRSA). Furthermore, in mammalian cell lines, including cancer cells, allicin induces cell-death and inhibits cell proliferation. In plants allicin inhibits seed germination and attenuates root-development. The majority of allicin's effects are believed to be mediated via redox-dependent mechanisms. In sub-lethal concentrations, allicin has a variety of health-promoting properties, for example cholesterol- and blood pressure-lowering effects that are advantageous for the cardio-vascular system. Clearly, allicin has wide-ranging and interesting applications in medicine and (green) agriculture, hence the detailed discussion of its enormous potential in this review. Taken together, allicin is a fascinating biologically active compound whose properties are a direct consequence of the molecule's chemistry.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25153873/"
+      },
+      {
+        "pmid": "32213941",
+        "title": "Chemical Constituents and Pharmacological Activities of Garlic (Allium sativum L.): A Review.",
+        "year": 2020,
+        "journal": "Nutrients",
+        "abstract": "Medicinal plants have been used from ancient times for human healthcare as in the form of traditional medicines, spices, and other food components. Garlic (Allium sativum L.) is an aromatic herbaceous plant that is consumed worldwide as food and traditional remedy for various diseases. It has been reported to possess several biological properties including anticarcinogenic, antioxidant, antidiabetic, renoprotective, anti-atherosclerotic, antibacterial, antifungal, and antihypertensive activities in traditional medicines. A. sativum is rich in several sulfur-containing phytoconstituents such as alliin, allicin, ajoenes, vinyldithiins, and flavonoids such as quercetin. Extracts and isolated compounds of A. sativum have been evaluated for various biological activities including antibacterial, antiviral, antifungal, antiprotozoal, antioxidant, anti-inflammatory, and anticancer activities among others. This review examines the phytochemical composition, pharmacokinetics, and pharmacological activities of A. sativum extracts as well as its main active constituent, allicin.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32213941/"
+      },
+      {
+        "pmid": "31284512",
+        "title": "Bioactive Compounds and Biological Functions of Garlic (Allium sativum L.).",
+        "year": 2019,
+        "journal": "Foods (Basel, Switzerland)",
+        "abstract": "Garlic (Allium sativum L.) is a widely consumed spice in the world. Garlic contains diverse bioactive compounds, such as allicin, alliin, diallyl sulfide, diallyl disulfide, diallyl trisulfide, ajoene, and S-allyl-cysteine. Substantial studies have shown that garlic and its bioactive constituents exhibit antioxidant, anti-inflammatory, antibacterial, antifungal, immunomodulatory, cardiovascular protective, anticancer, hepatoprotective, digestive system protective, anti-diabetic, anti-obesity, neuroprotective, and renal protective properties. In this review, the main bioactive compounds and important biological functions of garlic are summarized, highlighting and discussing the relevant mechanisms of actions. Overall, garlic is an excellent natural source of bioactive sulfur-containing compounds and has promising applications in the development of functional foods or nutraceuticals for the prevention and management of certain diseases.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31284512/"
+      }
+    ]
+  },
+  "\"Lavandula angustifolia\"[tiab] AND (epilepsy OR anticonvulsant OR seizures) AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "36066675",
+        "title": "Seizure treatment with olfactory training: a preliminary trial.",
+        "year": 2022,
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "abstract": "OBJECTIVE: Epilepsy is a chronic condition characterized by recurrent seizures. Despite miscellaneous antiseizure medications, resistance to treatment is still approximately 30%. This resistance brings forward the multidisciplinary approach and complementary treatments. In this study, we aimed to investigate the effect of olfactory training on epileptic seizures with special aromas having antiseizure effects in patients diagnosed with drug-resistant epilepsy. METHODS: A total of 24 patients (14 pediatric and 10 adults) with drug-resistant epilepsy were recruited for the study. Participants were asked to inhale the standardized bottle filled with lavender aroma (Lavandula Angustifolia) twice a day (morning and evening) for 30-45 s (2 cm in front of nose; 10-15 s to right and left nostril and 10-15 s to both nostrils) for 3 months. The type, frequency, duration of seizures, the quality of life (SF-36 and PedsQL 4.0), and olfactory functions (Sniffin' Sticks Test and Pediatric Smell Wheel) were re-assessed. RESULTS: Statistical analysis showed that olfactory training decreased the seizure frequency (p < 0.001) and the seizure duration (p = 0.02). A global 50% seizure reduction was seen among patients. Moreover, olfactory training increased the quality of life (p = 0.003) and improved the olfactory function in both the pediatric and adult groups (p = 0.017, p = 0.05, respectively). There was no adverse reaction and no increase in seizure frequency. SIGNIFICANCE: The observations of the present investigation suggest that olfactory training is a successful complementary therapy with no adverse reaction in patients with drug-resistant epilepsy. Large cohort studies and longer follow-up periods are needed for providing olfactory training as a therapy modality in patients with epilepsy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36066675/"
+      },
+      {
+        "pmid": "38089644",
+        "title": "Antiseizure Effects of Peganum harmala L. and Lavandula angustifolia.",
+        "year": 2023,
+        "journal": "BioMed research international",
+        "abstract": "Peganum harmala L. and Lavandula angustifolia are two traditional herbs with probable antiseizure effects. This study evaluated the effects of these two herbal extracts on pentylenetetrazol- (PTZ-) induced seizures in mice. We prepared hydroalcoholic extracts using P. harmala seeds and the aerial parts of L. angustifolia and then randomly divided 190 mice into 19 groups. Normal saline (10 mg/kg), diazepam (2 mg/kg), P. harmala (2.5, 5, 10, 15, 30, 45, and 60 mg/kg), and L. angustifolia (200, 400, 600, and 800 mg/kg) were intraperitoneally (IP) administrated 30 min before an IP administration of PTZ (90 mg/kg). Animals were observed for behavioral changes for one hour. In addition, the effects of flumazenil and naloxone on the antiseizure activity of P. harmala and L. angustifolia were assessed. P. harmala showed antiseizure activity at the dose of 10 mg/kg; it prolonged the seizure latency and decreased the seizure duration. The mortality protection rate was 90% for this herbal extract. L. angustifolia (600 mg/kg) prolonged the seizure latency and decreased both seizure duration and mortality. Neither flumazenil nor naloxone significantly reversed the antiseizure activities of P. harmala and L. angustifolia. In mice, the hydroalcoholic extracts of P. harmala and L. angustifolia showed antiseizure activity against PTZ-induced seizures. We could not delineate the exact antiseizure mechanisms of these extracts in the current study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38089644/"
+      },
+      {
+        "pmid": "19607974",
+        "title": "Intraplantar injection of bergamot essential oil into the mouse hindpaw: effects on capsaicin-induced nociceptive behaviors.",
+        "year": 2009,
+        "journal": "International review of neurobiology",
+        "abstract": "Despite the increasing use of aromatherapy oils, there have not been many studies exploring the biological activities of bergamot (Citrus bergamia, Risso) essential oil (BEO). Recently, we have investigated the effects of BEO injected into the plantar surface of the hindpaw in the capsaicin test in mice. The intraplantar injection of capsaicin produced an intense and short-lived licking/biting response toward the injected hindpaw. The capsaicin-induced nociceptive response was reduced significantly by intraplantar injection of BEO. The essential oils of Clary Sage (Salvia sclarea), Thyme ct. linalool (linalool chemotype of Thymus vulgaris), Lavender Reydovan (Lavandula hybrida reydovan), and True Lavender (Lavandula angustifolia), had similar antinociceptive effects on the capsaicin-induced nociceptive response, while Orange Sweet (Citrus sinensis) essential oil was without effect. In contrast to a small number of pharmacological studies of BEO, there is ample evidence regarding isolated components of BEO which are also found in other essential oils. The most abundant compounds found in the volatile fraction are the monoterpene hydrocarbons, such as limonene, gamma-terpinene, beta-pinene, and oxygenated derivatives, linalool and linalyl acetate. Of these monoterpenes, the pharmacological activities of linalool have been examined. Following intraperitoneal (i.p.) administration in mice, linalool produces antinociceptive and antihyperalgesic effects in different animal models in addition to anti-inflammatory properties. Linalool also possesses anticonvulsant activity in experimental models of epilepsy. We address the importance of linalool or linalyl acetate in BEO-or the other essential oil-induced antinociception.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19607974/"
+      }
+    ]
+  },
+  "\"Papaver somniferum\"[tiab] AND (epilepsy OR anticonvulsant OR seizures) AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "31115355",
+        "title": "Drugs for mental illnesses in ancient greek medicine.",
+        "year": 2019,
+        "journal": "Psychiatrike = Psychiatriki",
+        "abstract": "Drugs with psychedelic, hypnotic, narcotic, analgesic, suppressive, euphoric and stimulating effects were used in various ways during the ancient times. We can classify drug use in ancient times into two main categories. On the one hand, ancient physicians prescribed drugs based on their pharmaceutical-therapeutic actions. On the other hand, people not pertaining to medicine and not relating to its accurate implementation often abused drugs to achieve an euphoric state of mind, either for personal gratification or as an indispensable element of religion and mythology. Ancient Greek medical literature contains ample prescriptions and recipes indicating that plants were the essential components of drugs. Pedanius Dioscorides dedicated his lifetime's work to the synthesis of ancient drugs. One can find a plethora of information concerning the production methods and the plants used in drugs for the treatment of psychiatric diseases. These were herbs like black and white hellebore, mandrake, hyoscyamus (henbane), Papaver somniferum (also known as opium poppy), Strychnos, Frankincense-tree and dorycnium. The preparation of narcotics included the addition of other elements, mainly wine, to the opus of plants or to their extracts. Drugs were produced via methods of dehumidification/desiccation, grinding, squeezing or boiling of the plants' roots with a formation of a juice, oil or mush extract. In addition, drugs could also be inhaled if burnt. Many physicians of antiquity, such as Hippocrates, Galen, Ctesias and Aretaeus of Cappadocia, all refer to many of these aforementioned drugs analyzing the different symptoms which they could address, and the risks accompanying their use. Physicians of antiquity used drugs for the treatment of somatic, as well as psychiatric disorders. Most of these drugs affected the central nervous system. Taking advantage of their analgesic properties, physicians used them for the management of severe and chronic painful conditions. The hypnotic effects of some drugs were desirable in order to be used as anesthetics for surgical operations and cauterization. Drug use was also established in the initial treatment of epilepsy and seizures, regardless of their cause. Public rituals and mythology were the two main contexts in which drug use flourished, outside the realms of medicine. The psychotropic and especially the hallucinatory effects of drugs caused the person under their influence to lose control, rendering him incapable of governing his actions and thoughts. These consciousness-altering medications were frequently the central focus of mythology. In this case, one would dictate and give orders to another person, which under any other circumstances would not be carried out. This led to the formation of the concept of the magic potion. Theophrastus frequently referred to magic potions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31115355/"
+      },
+      {
+        "pmid": "26844398",
+        "title": "Death in a legal poppy field in Spain.",
+        "year": 2016,
+        "journal": "Forensic science international",
+        "abstract": "Opium is a substance extracted from Papaver somniferum L. Opium latex contains morphine, codeine, and thebaine and non-analgesic alkaloids such as papaverine and noscapine. In Spain opium growing is allowed only for scientific or pharmaceutical purposes and harvest is supervised by the Spanish Health Ministry. This work describes a sudden fatality involving opium consumption in a legal poppy field. The toxicological and autopsy findings, previous disease, paraphernalia, and scenario are discussed in order to clarify cause and manner of death. A 32-year-old white caucasian male was found unresponsive in a legal poppy field in the South of Spain. The emergency medical services responded to the scene where he was pronounced dead. The friends explained that the deceased had presented with about 30min of convulsions; in spite of trying to keep his airway tract open they noted that \"he stayed airless\". According to them the victim suffered from epilepsy. Tools found beside his body consisted of plain wood sticks with a blade razor, a fabric handle, and paper. A comprehensive toxicological screening for abuse and psychoactive drugs was performed in the deceased samples. This included ethanol and volatile analysis by HS-GC-FID in peripheral blood and urine, enzyme immunoassay in urine by CEDIA, and a basic drug screening in all samples (including paraphernalia) by GC-MS using modes full scan for screening/confirmation and selected ion monitoring for quantitation. The peripheral blood, urine, vitreous, and gastric content contained the following concentrations of opiates expressed in mg/L (gastric content additionally also expressed in mg total): 0.10, 7.12, 0.23, and 14.80 (2.81mg total) of thebaine, 0.13, 4.50, 0.13, and 6.60 (1.25mg total) of morphine (free), 0.48, 0.88, 0.17, and 1.50 (0.28mg total) of codeine. These tree opiates were also detected in the tools (paraphernalia) used by the deceased for opium consumption. Other toxicological findings were metabolites of cocaine and cannabis. Apparently the victim stole poppy capsules and ingested an unknown quantity of the latex with the goal to obtain euphoric effects. The cause of death was considered poly-drug toxicity with a preponderant role of thebaine and morphine. In addition, the epileptic condition of the deceased could have played a role. As far as we know, there are no previous reports of fatalities occurring in legal poppy fields.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26844398/"
+      },
+      {
+        "pmid": "9988096",
+        "title": "Stereoselective mu- and delta-opioid receptor-related antinociception and binding with (+)-thebaine.",
+        "year": 1999,
+        "journal": "European journal of pharmacology",
+        "abstract": "In vivo and in vitro binding studies with natural thebaine and its enantiomer, (+)-thebaine were conducted to elucidate further their interactions with the opioid system. (-)-Thebaine a key intermediate in the biosynthesis of morphine in the poppy plant (Papaver somniferum) and in mammalian tissue, was poorly effective antinociceptively in mice at doses to 30 mg/kg. Its principal behavioral manifestation was lethal convulsions. Naltrindole, at doses of 1 and 10 mg/kg did not block either the convulsions or lethal effects, suggesting that the delta-opioid receptor system was not involved in this action. Surprisingly, the dextrorotatory isomer exhibited significant antinociceptive activity in the tail-flick [ED50 = 8.9 (3.4-22.1) mg/kg], hot-plate [ED50 = 22.9 (10.9-48.1) mg/kg] and phenylquinone [ED50) = 1.9 (1.6-9.5) mg/kg] assays. Studies with opioid receptor-subtype antagonists, beta-funaltrexamine, nor-binaltorphimine and naltrindole, indicated that antinociception was associated with mu- and delta-opioid receptors. Results of displacement experiments supported the in vivo data. Significant competition for [3H]diprenorphine binding with both isomers for cloned mu- and delta-opioid receptors was observed. However, (-)-thebaine was more effective at the delta-opioid receptor (Ki = 1.02+/-0.01 microM) whereas (+)-thebaine was more effective at the mu-opioid receptor ( Ki = 2.75+/-0.01 microM). Opioid-induced antinociception associated with unnatural thebaine raises the possibility of additional mu- and delta-opioid receptor sites.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9988096/"
+      }
+    ]
+  },
+  "\"Hypericum perforatum\"[tiab] AND (epilepsy OR anticonvulsant OR seizures) AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "28247977",
+        "title": "Burning mouth syndrome: a systematic review of treatments.",
+        "year": 2018,
+        "journal": "Oral diseases",
+        "abstract": "Burning mouth syndrome (BMS) is a chronic oral pain syndrome that primarily affects peri- and postmenopausal women. It is characterized by oral mucosal burning and may be associated with dysgeusia, paresthesia, dysesthesia, and xerostomia. The etiology of the disease process is unknown, but is thought to be neuropathic in origin. The goal of this systematic review was to assess the efficacy of the various treatments for BMS. Literature searches were conducted through PubMed, Web of Science, and Cochrane Library databases, which identified 22 randomized controlled trials. Eight studies examined alpha-lipoic acid (ALA), three clonazepam, three psychotherapy, and two capsaicin, which all showed modest evidence of potentially decreasing pain/burning. Gabapentin was seen in one study to work alone and synergistically with ALA. Other treatments included vitamins, benzydamine hydrochloride, bupivacaine, Catuama, olive oil, trazodone, urea, and Hypericum perforatum. Of these other treatments, Catuama and bupivacaine were the only ones with significant positive results in symptom improvement. ALA, topical clonazepam, gabapentin, and psychotherapy may provide modest relief of pain in BMS. Gabapentin may also boost the effect of ALA. Capsaicin is limited by its side effects. Catuama showed potential for benefit. Future studies with standardized methodology and outcomes containing more patients are needed.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28247977/"
+      },
+      {
+        "pmid": "14709617",
+        "title": "In vitro metabolism of hyperforin in rat liver microsomal systems.",
+        "year": 2004,
+        "journal": "Drug metabolism and disposition: the biological fate of chemicals",
+        "abstract": "Hyperforin is an important active component of St. John's wort (Hypericum perforatum) that has been suggested to be responsible for the St. John's wort antidepressive effects and herbal-drug interactions. In this study, the in vitro metabolism profile of hyperforin was investigated using liver microsomes from male and female Sprague-Dawley rats, with or without induction by phenobarbital or dexamethasone. Four major Phase I metabolites, named 19-hydroxyhyperforin, 24-hydroxyhyperforin, 29-hydroxyhyperforin, and 34-hydroxyhyperforin, were isolated by high performance liquid chromatography and identified by mass spectrometry and NMR. Results suggest that hydroxylation is a major biotransformation of the hyperforin pathway in rat liver and that inducible cytochrome P450 3A (CYP450 3A) and/or CYP2B may be the major cytochrome P450 isoforms catalyzing these hydroxylation reactions.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14709617/"
+      },
+      {
+        "pmid": "17934195",
+        "title": "Serotonergic anti-depressants and ethanol withdrawal syndrome: a review.",
+        "year": 2008,
+        "journal": "Alcohol and alcoholism (Oxford, Oxfordshire)",
+        "abstract": "AIM: To review laboratory findings on the effects of anti-depressant agents that interact with the serotonergic system on signs of ethanol withdrawal syndrome in rats. METHOD: Adult Wistar rats received a modified liquid diet to produce ethanol dependence. Signs of ethanol withdrawal, locomotor hyperactivity, stereotyped behaviour, tremor, wet dog shakes, agitation, and audiogenic seizures, were evaluated for the first 6 h of ethanol withdrawal. The effects of the anti-depressants fluoxetine, venlafaxine, escitalopram, tianeptine, and extract of Hypericum perforatum (St. John's wort) (HPE) were examined. RESULTS: Some beneficial effects of fluoxetine, tianeptine, HPE, escitalopram and venlafaxine on ethanol withdrawal signs were observed, ranked as follows: fluoxetine = tianeptine > HPE > escitalopram > venlafaxine. CONCLUSIONS: Tianeptine and fluoxetine seem to be potent pharmacologically active agents on ethanol withdrawal syndrome in rats. Thus, these anti-depressants may be useful in treatment of ethanol withdrawal syndrome in patients with alcoholism. In addition to serotonergic effects, interactions with nitrergic, glutamatergic, and adenosinergic systems may also provide a significant contribution to the beneficial effects of these drugs on ethanol withdrawal syndrome.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17934195/"
+      }
+    ]
+  },
+  "\"Tanacetum parthenium\"[tiab] AND (headache OR migraine) AND hasabstract": {
+    "fetched": "2026-11-14",
+    "articles": [
+      {
+        "pmid": "24682554",
+        "title": "Gibt es Evidenz für die Wirksamkeit komplementärmedizinischer Therapien für die Migräneprophylaxe? [ger]",
+        "year": 2002,
+        "journal": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+        "abstract": "Complementary therapies are widely used and play an important role in the treatment of chronic pain syndromes. This review summarizes the evidences from randomized controlled trials for the effectiveness of a number of complementary therapies in migraine prophylaxis. The largest number of studies (a total of 15) is available for acupuncture. These studies are very heterogeneous in respect to interventions, methodological quality and outcome measurement, and the results are partly contradictory. The majority of trials, however, suggests that acupuncture is effective in migraine prophylaxis. The four existing, randomized and placebo-controlled trials on individualized homeopathy have shown conflicting results; clearly positive results have been reported only in the oldest, qualitatively least convincing study. Concerning herbal medicines the evidence is promising for extracts from Tanacetum parthenium (feverfew, five trials) and Petasites hybridus (one trial). Randomized trials on spinal manipulation for migraine prophylaxis have shown contradictory results. For neural therapy or complex strategies combining several complementary therapies only uncontrolled studies could be identified. In summary, there is promising evidence for the effectiveness of a number of complementary treatment options in migraine prophylaxis. Further research is clearly warranted.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24682554/"
+      },
+      {
+        "pmid": "24867850",
+        "title": "Herbal therapy in migraine.",
+        "year": 2014,
+        "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+        "abstract": "The use of herbal therapies is ancient and increasing worldwide. There is a growing body of evidence supporting the efficacy of various \"complementary\" and alternative medicine approaches in the management of headache disorders. Promising tools to treat migraine patients are herbal products. In particular constituents of Petasites hybridus, Tanacetum Parthenium and Ginkgo Biloba have shown antimigraine action in clinical studies. A miscellaneous of recreational drugs and other herbal remedies have been supposed to have a role in headache treatment but quality of clinical studies in this field is low and inconclusive. Further research is warranted in this area.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24867850/"
+      },
+      {
+        "pmid": "30627973",
+        "title": "Phytomedicines in the Treatment of Migraine.",
+        "year": 2019,
+        "journal": "CNS drugs",
+        "abstract": "Migraine is a disabling neurovascular disorder with few targeted, tolerable and effective treatments. Phytomedicines, or plant-based medicinal formulations, hold great promise in the identification of novel therapeutic targets in migraine. Many patients also turn toward herbal and plant-based therapies for the treatment of their migraines as clinical and preclinical evidence of efficacy increases. Patients seek effective and tolerable treatments instead of or in addition to current conventional pharmacologic therapies. We review some phytomedicines potentially useful for migraine treatment-feverfew (Tanacetum parthenium), butterbur (Petasites hybridus), marijuana (Cannabis spp.), Saint John's Wort (Hypericum perforatum) and the Damask rose (Rosa × damascena)-with respect to their mechanisms of action and evidence for treatment of migraine. The evidence for feverfew is mixed; butterbur is effective with potential risks of hepatotoxicity related to preparation; marijuana has not been shown to be effective in migraine treatment, and data are scant; Saint John's Wort shows relevant physiological activity but is a hepatic enzyme inducer and lacks clinical studies for this purpose; the Damask rose when used in topical preparations did not show efficacy in one clinical trial. Other plant preparations have been considered for migraine treatment but most without blinded randomized, placebo-controlled trial evidence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30627973/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+google-genai==3.3.0
+networkx==3.7
+numpy==2.5.4
+pandas==3.1.1
+plotly==7.1.0
+python-dotenv==1.2.4
+pyvis==0.3.2
+rank_bm25==0.2.2
+requests==2.34.2
+sentence-transformers==6.3.0
+streamlit==1.67.0
+torch==2.15.0

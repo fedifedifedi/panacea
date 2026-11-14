@@ -1,0 +1,539 @@
+{
+  "formula": "score = 100 * (0.50*novelty + 0.30*tradition + 0.20*chemistry)",
+  "weights": {
+    "novelty": 0.5,
+    "tradition": 0.3,
+    "chemistry": 0.2
+  },
+  "notes": "Critères normalisés min-max sur les plantes classées ; novelty = 1 - norm(log10(1+articles)), chemistry = norm(log10(1+composés)).",
+  "leads": [
+    {
+      "name": "All-Heal",
+      "scientific_name": "Opopanax chironium",
+      "score": 80.3,
+      "criteria": {
+        "tradition": 0.6,
+        "chemistry": 0.613,
+        "novelty": 1.0
+      },
+      "raw": {
+        "n_indications": 23,
+        "compounds_total": 42,
+        "pubmed_total": 3,
+        "pubmed_since_2016": 0,
+        "recent_share": 0.0
+      },
+      "explanation": "Usage ancien modéré (23 indications), chimie assez documentée (42 composés), et peu étudiée (3 articles PubMed).",
+      "id": 2,
+      "wikidata_id": "Q13560912",
+      "extracted_by": "gemini",
+      "rank": 1
+    },
+    {
+      "name": "Mint",
+      "scientific_name": "Mentha spicata",
+      "score": 59.3,
+      "criteria": {
+        "tradition": 1.0,
+        "chemistry": 0.859,
+        "novelty": 0.243
+      },
+      "raw": {
+        "n_indications": 33,
+        "compounds_total": 194,
+        "pubmed_total": 519,
+        "pubmed_since_2016": 334,
+        "recent_share": 0.64
+      },
+      "explanation": "Usage ancien riche (33 indications), chimie bien documentée (194 composés), mais déjà très étudiée (519 articles PubMed).",
+      "id": 201,
+      "wikidata_id": "Q160114",
+      "extracted_by": "gemini",
+      "rank": 2
+    },
+    {
+      "name": "Alkanet",
+      "scientific_name": "Alkanna tinctoria",
+      "score": 53.5,
+      "criteria": {
+        "tradition": 0.56,
+        "chemistry": 0.358,
+        "novelty": 0.59
+      },
+      "raw": {
+        "n_indications": 22,
+        "compounds_total": 8,
+        "pubmed_total": 55,
+        "pubmed_since_2016": 38,
+        "recent_share": 0.69
+      },
+      "explanation": "Usage ancien modéré (22 indications), chimie assez documentée (8 composés), et moyennement étudiée (55 articles PubMed).",
+      "id": 3,
+      "wikidata_id": "Q856964",
+      "extracted_by": "gemini",
+      "rank": 3
+    },
+    {
+      "name": "Camomile",
+      "scientific_name": "Chamaemelum nobile",
+      "score": 52.2,
+      "criteria": {
+        "tradition": 0.24,
+        "chemistry": 0.833,
+        "novelty": 0.566
+      },
+      "raw": {
+        "n_indications": 14,
+        "compounds_total": 165,
+        "pubmed_total": 64,
+        "pubmed_since_2016": 37,
+        "recent_share": 0.58
+      },
+      "explanation": "Usage ancien limité (14 indications), chimie bien documentée (165 composés), mais moyennement étudiée (64 articles PubMed).",
+      "id": 60,
+      "wikidata_id": "Q5723577",
+      "extracted_by": "gemini",
+      "rank": 4
+    },
+    {
+      "name": "Sage",
+      "scientific_name": "Salvia officinalis",
+      "score": 52.1,
+      "criteria": {
+        "tradition": 0.88,
+        "chemistry": 0.995,
+        "novelty": 0.115
+      },
+      "raw": {
+        "n_indications": 30,
+        "compounds_total": 447,
+        "pubmed_total": 1180,
+        "pubmed_since_2016": 693,
+        "recent_share": 0.59
+      },
+      "explanation": "Usage ancien riche (30 indications), chimie bien documentée (447 composés), mais déjà très étudiée (1180 articles PubMed).",
+      "id": 266,
+      "wikidata_id": "Q1111359",
+      "extracted_by": "gemini",
+      "rank": 5
+    },
+    {
+      "name": "Agrimony",
+      "scientific_name": "Agrimonia eupatoria",
+      "score": 48.7,
+      "criteria": {
+        "tradition": 0.4,
+        "chemistry": 0.504,
+        "novelty": 0.532
+      },
+      "raw": {
+        "n_indications": 18,
+        "compounds_total": 21,
+        "pubmed_total": 80,
+        "pubmed_since_2016": 51,
+        "recent_share": 0.64
+      },
+      "explanation": "Usage ancien modéré (18 indications), chimie assez documentée (21 composés), et moyennement étudiée (80 articles PubMed).",
+      "id": 5,
+      "wikidata_id": "Q156865",
+      "extracted_by": "gemini",
+      "rank": 6
+    },
+    {
+      "name": "Comfrey",
+      "scientific_name": "Symphytum officinale",
+      "score": 47.2,
+      "criteria": {
+        "tradition": 0.48,
+        "chemistry": 0.593,
+        "novelty": 0.418
+      },
+      "raw": {
+        "n_indications": 20,
+        "compounds_total": 37,
+        "pubmed_total": 168,
+        "pubmed_since_2016": 80,
+        "recent_share": 0.48
+      },
+      "explanation": "Usage ancien modéré (20 indications), chimie assez documentée (37 composés), et moyennement étudiée (168 articles PubMed).",
+      "id": 86,
+      "wikidata_id": "Q157561",
+      "extracted_by": "claude",
+      "rank": 7
+    },
+    {
+      "name": "Garden Valerian",
+      "scientific_name": "Valeriana officinalis",
+      "score": 46.6,
+      "criteria": {
+        "tradition": 0.4,
+        "chemistry": 0.974,
+        "novelty": 0.302
+      },
+      "raw": {
+        "n_indications": 18,
+        "compounds_total": 393,
+        "pubmed_total": 354,
+        "pubmed_since_2016": 173,
+        "recent_share": 0.49
+      },
+      "explanation": "Usage ancien modéré (18 indications), chimie bien documentée (393 composés), mais déjà très étudiée (354 articles PubMed).",
+      "id": 315,
+      "wikidata_id": "Q157819",
+      "extracted_by": "gemini",
+      "rank": 8
+    },
+    {
+      "name": "Wormwood",
+      "scientific_name": "Artemisia absinthium",
+      "score": 46.4,
+      "criteria": {
+        "tradition": 0.52,
+        "chemistry": 0.822,
+        "novelty": 0.287
+      },
+      "raw": {
+        "n_indications": 21,
+        "compounds_total": 154,
+        "pubmed_total": 390,
+        "pubmed_since_2016": 236,
+        "recent_share": 0.61
+      },
+      "explanation": "Usage ancien modéré (21 indications), chimie bien documentée (154 composés), mais déjà très étudiée (390 articles PubMed).",
+      "id": 327,
+      "wikidata_id": "Q25686",
+      "extracted_by": "gemini",
+      "rank": 9
+    },
+    {
+      "name": "Fennel",
+      "scientific_name": "Foeniculum vulgare",
+      "score": 45.5,
+      "criteria": {
+        "tradition": 0.56,
+        "chemistry": 0.97,
+        "novelty": 0.186
+      },
+      "raw": {
+        "n_indications": 22,
+        "compounds_total": 384,
+        "pubmed_total": 749,
+        "pubmed_since_2016": 485,
+        "recent_share": 0.65
+      },
+      "explanation": "Usage ancien modéré (22 indications), chimie bien documentée (384 composés), mais déjà très étudiée (749 articles PubMed).",
+      "id": 121,
+      "wikidata_id": "Q43511",
+      "extracted_by": "gemini",
+      "rank": 10
+    },
+    {
+      "name": "Rosemary",
+      "scientific_name": "Rosmarinus officinalis",
+      "score": 45.2,
+      "criteria": {
+        "tradition": 0.76,
+        "chemistry": 0.931,
+        "novelty": 0.076
+      },
+      "raw": {
+        "n_indications": 27,
+        "compounds_total": 302,
+        "pubmed_total": 1517,
+        "pubmed_since_2016": 998,
+        "recent_share": 0.66
+      },
+      "explanation": "Usage ancien riche (27 indications), chimie bien documentée (302 composés), mais déjà très étudiée (1517 articles PubMed).",
+      "id": 256,
+      "wikidata_id": "Q122679",
+      "extracted_by": "gemini",
+      "rank": 11
+    },
+    {
+      "name": "Amara Dulcis",
+      "scientific_name": "Solanum dulcamara",
+      "score": 42.4,
+      "criteria": {
+        "tradition": 0.2,
+        "chemistry": 0.665,
+        "novelty": 0.462
+      },
+      "raw": {
+        "n_indications": 13,
+        "compounds_total": 58,
+        "pubmed_total": 126,
+        "pubmed_since_2016": 54,
+        "recent_share": 0.43
+      },
+      "explanation": "Usage ancien limité (13 indications), chimie assez documentée (58 composés), mais moyennement étudiée (126 articles PubMed).",
+      "id": 1,
+      "wikidata_id": "Q147707",
+      "extracted_by": "gemini",
+      "rank": 12
+    },
+    {
+      "name": "Lavender",
+      "scientific_name": "Lavandula angustifolia",
+      "score": 40.2,
+      "criteria": {
+        "tradition": 0.48,
+        "chemistry": 0.763,
+        "novelty": 0.211
+      },
+      "raw": {
+        "n_indications": 20,
+        "compounds_total": 107,
+        "pubmed_total": 636,
+        "pubmed_since_2016": 492,
+        "recent_share": 0.77
+      },
+      "explanation": "Usage ancien modéré (20 indications), chimie bien documentée (107 composés), mais déjà très étudiée (636 articles PubMed).",
+      "id": 173,
+      "wikidata_id": "Q42081",
+      "extracted_by": "gemini",
+      "rank": 13
+    },
+    {
+      "name": "Feverfew",
+      "scientific_name": "Tanacetum parthenium",
+      "score": 39.9,
+      "criteria": {
+        "tradition": 0.24,
+        "chemistry": 0.859,
+        "novelty": 0.311
+      },
+      "raw": {
+        "n_indications": 14,
+        "compounds_total": 194,
+        "pubmed_total": 335,
+        "pubmed_since_2016": 116,
+        "recent_share": 0.35
+      },
+      "explanation": "Usage ancien limité (14 indications), chimie bien documentée (194 composés), et déjà très étudiée (335 articles PubMed).",
+      "id": 120,
+      "wikidata_id": "Q818481",
+      "extracted_by": "claude",
+      "rank": 14
+    },
+    {
+      "name": "Balm",
+      "scientific_name": "Melissa officinalis",
+      "score": 39.0,
+      "criteria": {
+        "tradition": 0.44,
+        "chemistry": 0.805,
+        "novelty": 0.194
+      },
+      "raw": {
+        "n_indications": 19,
+        "compounds_total": 139,
+        "pubmed_total": 713,
+        "pubmed_since_2016": 460,
+        "recent_share": 0.65
+      },
+      "explanation": "Usage ancien modéré (19 indications), chimie bien documentée (139 composés), mais déjà très étudiée (713 articles PubMed).",
+      "id": 23,
+      "wikidata_id": "Q148396",
+      "extracted_by": "claude",
+      "rank": 15
+    },
+    {
+      "name": "Poppy",
+      "scientific_name": "Papaver somniferum",
+      "score": 38.6,
+      "criteria": {
+        "tradition": 0.4,
+        "chemistry": 0.765,
+        "novelty": 0.225
+      },
+      "raw": {
+        "n_indications": 18,
+        "compounds_total": 108,
+        "pubmed_total": 584,
+        "pubmed_since_2016": 222,
+        "recent_share": 0.38
+      },
+      "explanation": "Usage ancien modéré (18 indications), chimie bien documentée (108 composés), mais déjà très étudiée (584 articles PubMed).",
+      "id": 242,
+      "wikidata_id": "Q131584",
+      "extracted_by": "claude",
+      "rank": 16
+    },
+    {
+      "name": "Adder’s Tongue",
+      "scientific_name": "Ophioglossum vulgatum",
+      "score": 37.9,
+      "criteria": {
+        "tradition": 0.0,
+        "chemistry": 0.0,
+        "novelty": 0.758
+      },
+      "raw": {
+        "n_indications": 8,
+        "compounds_total": 0,
+        "pubmed_total": 18,
+        "pubmed_since_2016": 14,
+        "recent_share": 0.78
+      },
+      "explanation": "Usage ancien limité (8 indications), chimie peu connue (0 composé), mais peu étudiée (18 articles PubMed).",
+      "id": 4,
+      "wikidata_id": "Q847497",
+      "extracted_by": "gemini",
+      "rank": 17
+    },
+    {
+      "name": "Yarrow",
+      "scientific_name": "Achillea millefolium",
+      "score": 36.7,
+      "criteria": {
+        "tradition": 0.2,
+        "chemistry": 0.904,
+        "novelty": 0.253
+      },
+      "raw": {
+        "n_indications": 13,
+        "compounds_total": 255,
+        "pubmed_total": 486,
+        "pubmed_since_2016": 269,
+        "recent_share": 0.55
+      },
+      "explanation": "Usage ancien limité (13 indications), chimie bien documentée (255 composés), et déjà très étudiée (486 articles PubMed).",
+      "id": 328,
+      "wikidata_id": "Q25408",
+      "extracted_by": "gemini",
+      "rank": 18
+    },
+    {
+      "name": "Garlick",
+      "scientific_name": "Allium sativum",
+      "score": 33.4,
+      "criteria": {
+        "tradition": 0.52,
+        "chemistry": 0.888,
+        "novelty": 0.0
+      },
+      "raw": {
+        "n_indications": 21,
+        "compounds_total": 231,
+        "pubmed_total": 2478,
+        "pubmed_since_2016": 1363,
+        "recent_share": 0.55
+      },
+      "explanation": "Usage ancien modéré (21 indications), chimie bien documentée (231 composés), mais déjà très étudiée (2478 articles PubMed).",
+      "id": 135,
+      "wikidata_id": "Q23400",
+      "extracted_by": "gemini",
+      "rank": 19
+    },
+    {
+      "name": "Thyme",
+      "scientific_name": "Thymus vulgaris",
+      "score": 31.8,
+      "criteria": {
+        "tradition": 0.32,
+        "chemistry": 0.822,
+        "novelty": 0.116
+      },
+      "raw": {
+        "n_indications": 16,
+        "compounds_total": 154,
+        "pubmed_total": 1172,
+        "pubmed_since_2016": 800,
+        "recent_share": 0.68
+      },
+      "explanation": "Usage ancien limité (16 indications), chimie bien documentée (154 composés), et déjà très étudiée (1172 articles PubMed).",
+      "id": 307,
+      "wikidata_id": "Q148668",
+      "extracted_by": "gemini",
+      "rank": 20
+    },
+    {
+      "name": "Fox-Glove",
+      "scientific_name": "Digitalis purpurea",
+      "score": 31.6,
+      "criteria": {
+        "tradition": 0.0,
+        "chemistry": 0.807,
+        "novelty": 0.31
+      },
+      "raw": {
+        "n_indications": 8,
+        "compounds_total": 140,
+        "pubmed_total": 336,
+        "pubmed_since_2016": 50,
+        "recent_share": 0.15
+      },
+      "explanation": "Usage ancien limité (8 indications), chimie bien documentée (140 composés), et déjà très étudiée (336 articles PubMed).",
+      "id": 132,
+      "wikidata_id": "Q157555",
+      "extracted_by": "gemini",
+      "rank": 21
+    },
+    {
+      "name": "Dandelion",
+      "scientific_name": "Taraxacum officinale",
+      "score": 30.1,
+      "criteria": {
+        "tradition": 0.16,
+        "chemistry": 0.737,
+        "novelty": 0.211
+      },
+      "raw": {
+        "n_indications": 12,
+        "compounds_total": 91,
+        "pubmed_total": 638,
+        "pubmed_since_2016": 371,
+        "recent_share": 0.58
+      },
+      "explanation": "Usage ancien limité (12 indications), chimie bien documentée (91 composés), et déjà très étudiée (638 articles PubMed).",
+      "id": 100,
+      "wikidata_id": "Q131219",
+      "extracted_by": "claude",
+      "rank": 22
+    },
+    {
+      "name": "St. John’s Wort",
+      "scientific_name": "Hypericum perforatum",
+      "score": 28.7,
+      "criteria": {
+        "tradition": 0.28,
+        "chemistry": 0.893,
+        "novelty": 0.048
+      },
+      "raw": {
+        "n_indications": 15,
+        "compounds_total": 239,
+        "pubmed_total": 1815,
+        "pubmed_since_2016": 738,
+        "recent_share": 0.41
+      },
+      "explanation": "Usage ancien limité (15 indications), chimie bien documentée (239 composés), et déjà très étudiée (1815 articles PubMed).",
+      "id": 166,
+      "wikidata_id": "Q158289",
+      "extracted_by": "gemini",
+      "rank": 23
+    },
+    {
+      "name": "Liquorice",
+      "scientific_name": "Glycyrrhiza glabra",
+      "score": 27.2,
+      "criteria": {
+        "tradition": 0.08,
+        "chemistry": 1.0,
+        "novelty": 0.096
+      },
+      "raw": {
+        "n_indications": 10,
+        "compounds_total": 461,
+        "pubmed_total": 1337,
+        "pubmed_since_2016": 890,
+        "recent_share": 0.67
+      },
+      "explanation": "Usage ancien limité (10 indications), chimie bien documentée (461 composés), et déjà très étudiée (1337 articles PubMed).",
+      "id": 180,
+      "wikidata_id": "Q257106",
+      "extracted_by": "claude",
+      "rank": 24
+    }
+  ]
+}

@@ -1,0 +1,2144 @@
+[
+  {
+    "id": 60,
+    "plant_name": "CAMOMILE",
+    "scientific_name": "Chamaemelum nobile",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "pains and stitches in the side",
+      "fever (agues)",
+      "weariness",
+      "swellings",
+      "colic (cholic)",
+      "kidney stones (stone)",
+      "abdominal pain (pains and torments of the belly)",
+      "colds",
+      "menstrual disorders (women's courses)",
+      "jaundice",
+      "dropsy",
+      "cramps",
+      "joint pain (pains in the joints)",
+      "flatulence (wind)"
+    ],
+    "parts_used": [
+      "flowers",
+      "juice"
+    ],
+    "preparations": [
+      "decoction",
+      "oil",
+      "syrup",
+      "posset-drink",
+      "lye",
+      "clysters"
+    ],
+    "ancient_dosage": "half a dram",
+    "source_quote": "Syrup made of the juice of Camomile, with the flowers, in white wine, is a remedy against the jaundice and dropsy.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q5723577",
+    "compounds": [
+      {
+        "name": "cedryl acetate",
+        "wikidata_id": "Q27231200",
+        "found_in_taxa": 3,
+        "wikipedia_links": 3
+      },
+      {
+        "name": "lycopene",
+        "wikidata_id": "Q208130",
+        "found_in_taxa": 57,
+        "wikipedia_links": 52
+      },
+      {
+        "name": "chamazulene",
+        "wikidata_id": "Q909088",
+        "found_in_taxa": 24,
+        "wikipedia_links": 17
+      },
+      {
+        "name": "isobutyl benzoate",
+        "wikidata_id": "Q27159676",
+        "found_in_taxa": 3,
+        "wikipedia_links": 2
+      },
+      {
+        "name": "2-Phenethyl propionate",
+        "wikidata_id": "Q4596915",
+        "found_in_taxa": 16,
+        "wikipedia_links": 9
+      },
+      {
+        "name": "3-pinanone",
+        "wikidata_id": "Q29533397",
+        "found_in_taxa": 6,
+        "wikipedia_links": 3
+      },
+      {
+        "name": "inositol",
+        "wikidata_id": "Q407997",
+        "found_in_taxa": 98,
+        "wikipedia_links": 44
+      },
+      {
+        "name": "(+)-γ-tocopherol",
+        "wikidata_id": "Q155753",
+        "found_in_taxa": 45,
+        "wikipedia_links": 13
+      }
+    ],
+    "compounds_total": 165
+  },
+  {
+    "id": 166,
+    "plant_name": "ST. JOHN’S WORT",
+    "scientific_name": "Hypericum perforatum",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "wounds",
+      "internal injuries (inward hurts)",
+      "bruises",
+      "obstructions",
+      "swellings",
+      "vomiting blood",
+      "spitting blood",
+      "venomous bites and stings (bitten or stung by any venomous creature)",
+      "difficulty urinating (cannot make water)",
+      "choler",
+      "congealed blood in the stomach",
+      "fever (agues)",
+      "sciatica",
+      "epilepsy (falling-sickness)",
+      "paralysis (palsy)"
+    ],
+    "parts_used": [
+      "herb",
+      "flowers",
+      "seed",
+      "leaves"
+    ],
+    "preparations": [
+      "decoction",
+      "ointment",
+      "powder"
+    ],
+    "ancient_dosage": "Two drams of the seed of St. John’s Wort made into powder, and drank in a little broth",
+    "source_quote": "The seed is much commended, being drank for forty days together, to help the sciatica, the falling-sickness, and the palsy.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q158289",
+    "compounds": [
+      {
+        "name": "thromboxane a2",
+        "wikidata_id": "Q774909",
+        "found_in_taxa": 4,
+        "wikipedia_links": 17
+      },
+      {
+        "name": "resorcin",
+        "wikidata_id": "Q408865",
+        "found_in_taxa": 16,
+        "wikipedia_links": 39
+      },
+      {
+        "name": "2-methyldodecane",
+        "wikidata_id": "Q27273678",
+        "found_in_taxa": 2,
+        "wikipedia_links": 4
+      },
+      {
+        "name": "serotonin",
+        "wikidata_id": "Q167934",
+        "found_in_taxa": 39,
+        "wikipedia_links": 74
+      },
+      {
+        "name": "pyrogallol",
+        "wikidata_id": "Q388692",
+        "found_in_taxa": 20,
+        "wikipedia_links": 34
+      },
+      {
+        "name": "phenol",
+        "wikidata_id": "Q130336",
+        "found_in_taxa": 57,
+        "wikipedia_links": 87
+      },
+      {
+        "name": "(RS)-3-methylnonane",
+        "wikidata_id": "Q2815998",
+        "found_in_taxa": 3,
+        "wikipedia_links": 4
+      },
+      {
+        "name": "nonane",
+        "wikidata_id": "Q150694",
+        "found_in_taxa": 40,
+        "wikipedia_links": 53
+      }
+    ],
+    "compounds_total": 239
+  },
+  {
+    "id": 266,
+    "plant_name": "Sage",
+    "scientific_name": "Salvia officinalis",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "liver disorders",
+      "promotes urination (provokes urine)",
+      "menstrual disorders (women’s courses)",
+      "expelling a dead fetus (expel the dead child)",
+      "bleeding wounds",
+      "foul ulcers",
+      "coughing up blood (spitting or casting of blood)",
+      "tuberculosis (consumption)",
+      "headache (pains in the head)",
+      "joint pain (pains of the joints)",
+      "epilepsy (falling-sickness)",
+      "lethargy",
+      "sluggishness (dull and heavy of spirit)",
+      "paralysis (palsy)",
+      "catarrh (defluctions of rheum)",
+      "chest diseases (diseases of the chest or breast)",
+      "abscess (imposthume)",
+      "hoarseness",
+      "cough",
+      "dysentery (bloody-flux)",
+      "snake bites (stinging and biting of serpents)",
+      "worms in ears and sores (worms that breed in the ear, and in sores)",
+      "memory loss (help the memory)",
+      "plague",
+      "sore mouth",
+      "sore throat",
+      "canker sores (cankers)",
+      "genital sores (secret parts of man or woman)",
+      "cramps (cramp)",
+      "side pain (stitch, or pains in the side)"
+    ],
+    "parts_used": [
+      "leaves",
+      "branches",
+      "seed",
+      "flowers"
+    ],
+    "preparations": [
+      "decoction",
+      "juice",
+      "pills",
+      "powder",
+      "conserve",
+      "gargles"
+    ],
+    "ancient_dosage": "Three spoonfuls of the juice of Sage taken fasting, with a little honey",
+    "source_quote": "The juice of Sage taken in warm water, helps a hoarseness and a cough.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q1111359",
+    "compounds": [
+      {
+        "name": "pristane",
+        "wikidata_id": "Q425446",
+        "found_in_taxa": 4,
+        "wikipedia_links": 18
+      },
+      {
+        "name": "DPPH",
+        "wikidata_id": "Q5205953",
+        "found_in_taxa": 5,
+        "wikipedia_links": 16
+      },
+      {
+        "name": "thujone",
+        "wikidata_id": "Q27121853",
+        "found_in_taxa": 10,
+        "wikipedia_links": 32
+      },
+      {
+        "name": "resorcin",
+        "wikidata_id": "Q408865",
+        "found_in_taxa": 16,
+        "wikipedia_links": 39
+      },
+      {
+        "name": "butylated hydroxytoluene",
+        "wikidata_id": "Q221945",
+        "found_in_taxa": 13,
+        "wikipedia_links": 27
+      },
+      {
+        "name": "1,3-Naphthalenediol",
+        "wikidata_id": "Q27262989",
+        "found_in_taxa": 2,
+        "wikipedia_links": 4
+      },
+      {
+        "name": "ricinoleic acid",
+        "wikidata_id": "Q424484",
+        "found_in_taxa": 19,
+        "wikipedia_links": 27
+      },
+      {
+        "name": "3,4-dihydroxyphenylacetic acid",
+        "wikidata_id": "Q4634071",
+        "found_in_taxa": 8,
+        "wikipedia_links": 10
+      }
+    ],
+    "compounds_total": 447
+  },
+  {
+    "id": 256,
+    "plant_name": "ROSEMARY",
+    "scientific_name": "Rosmarinus officinalis",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "cold diseases of the head",
+      "cold diseases of the stomach",
+      "cold diseases of the liver",
+      "cold diseases of the belly",
+      "rheum in the eyes (cold distillations of rheum into the eyes)",
+      "giddiness",
+      "drowsiness",
+      "dumb palsy",
+      "loss of speech",
+      "lethargy (the lethargy)",
+      "epilepsy (fallen-sickness)",
+      "toothache (pains in the gums and teeth)",
+      "bad breath (a stinking breath)",
+      "weak memory",
+      "indigestion",
+      "flatulence (windiness in the stomach, bowels, and spleen)",
+      "liver enlargement (liver-grown)",
+      "liver obstructions",
+      "impaired vision (dim eyes)",
+      "jaundice (yellow jaundice)",
+      "pestilence (contagion of the pestilence)",
+      "leukorrhea (the whites)",
+      "cough",
+      "asthma (phthisic)",
+      "consumption",
+      "numb joints (cold benumbed joints, sinews, or members)",
+      "scars (spots, marks, and scars in the skin)"
+    ],
+    "parts_used": [
+      "flowers",
+      "leaves"
+    ],
+    "preparations": [
+      "decoction",
+      "powder",
+      "conserve",
+      "ointment",
+      "oil",
+      "chymical oil"
+    ],
+    "ancient_dosage": "one drop, two, or three, as the case requires",
+    "source_quote": "It helps a weak memory, and quickens the senses.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q122679",
+    "compounds": [
+      {
+        "name": "2-butanol",
+        "wikidata_id": "Q209332",
+        "found_in_taxa": 11,
+        "wikipedia_links": 34
+      },
+      {
+        "name": "2-pentanol",
+        "wikidata_id": "Q210479",
+        "found_in_taxa": 12,
+        "wikipedia_links": 23
+      },
+      {
+        "name": "ethanol",
+        "wikidata_id": "Q153",
+        "found_in_taxa": 74,
+        "wikipedia_links": 132
+      },
+      {
+        "name": "2-heptanol",
+        "wikidata_id": "Q2720011",
+        "found_in_taxa": 17,
+        "wikipedia_links": 24
+      },
+      {
+        "name": "acetic acid",
+        "wikidata_id": "Q47512",
+        "found_in_taxa": 72,
+        "wikipedia_links": 95
+      },
+      {
+        "name": "1-octen-3-one",
+        "wikidata_id": "Q5074300",
+        "found_in_taxa": 14,
+        "wikipedia_links": 14
+      },
+      {
+        "name": "16-hydroxypalmitic acid",
+        "wikidata_id": "Q27124231",
+        "found_in_taxa": 5,
+        "wikipedia_links": 5
+      },
+      {
+        "name": "sclareol",
+        "wikidata_id": "Q796619",
+        "found_in_taxa": 19,
+        "wikipedia_links": 19
+      }
+    ],
+    "compounds_total": 302
+  },
+  {
+    "id": 173,
+    "plant_name": "LAVENDER",
+    "scientific_name": "Lavandula angustifolia",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "stroke (apoplexy)",
+      "epilepsy (falling-sickness)",
+      "edema (dropsy, or sluggish malady)",
+      "cramps",
+      "convulsions",
+      "paralysis (palsies)",
+      "fainting (faintings and swooning)",
+      "stomach weakness",
+      "liver obstructions",
+      "spleen obstructions",
+      "menstrual disorders (women's courses)",
+      "expelling stillbirth (expels the dead child)",
+      "expelling placenta (after-birth)",
+      "urinary retention (make water that are stopped)",
+      "flatulence (wind)",
+      "colic (cholic)",
+      "dizziness (giddiness or turning of the brain)",
+      "toothache (tooth-ache)",
+      "loss of voice",
+      "heart palpitations (passions of the heart)"
+    ],
+    "parts_used": [
+      "flowers"
+    ],
+    "preparations": [
+      "steeped in wine",
+      "decoction",
+      "distilled water",
+      "chymical oil"
+    ],
+    "ancient_dosage": "Two spoonfuls of the distilled water of the flowers taken",
+    "source_quote": "The flowers of Lavender steeped in wine, helps them to make water that are stopped, or are troubled with the wind or cholic, if the place be bathed therewith.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q42081",
+    "compounds": [
+      {
+        "name": "2-methylpropanoic acid",
+        "wikidata_id": "Q415062",
+        "found_in_taxa": 29,
+        "wikipedia_links": 27
+      },
+      {
+        "name": "octyl acetate",
+        "wikidata_id": "Q2173897",
+        "found_in_taxa": 38,
+        "wikipedia_links": 21
+      },
+      {
+        "name": "eucalyptol",
+        "wikidata_id": "Q161572",
+        "found_in_taxa": 70,
+        "wikipedia_links": 34
+      },
+      {
+        "name": "hexadecane",
+        "wikidata_id": "Q150843",
+        "found_in_taxa": 92,
+        "wikipedia_links": 41
+      },
+      {
+        "name": "tetradecane",
+        "wikidata_id": "Q150808",
+        "found_in_taxa": 79,
+        "wikipedia_links": 33
+      },
+      {
+        "name": "coumarin",
+        "wikidata_id": "Q111812",
+        "found_in_taxa": 132,
+        "wikipedia_links": 52
+      },
+      {
+        "name": "hexyl acetate",
+        "wikidata_id": "Q418672",
+        "found_in_taxa": 41,
+        "wikipedia_links": 16
+      },
+      {
+        "name": "octadecane",
+        "wikidata_id": "Q150900",
+        "found_in_taxa": 76,
+        "wikipedia_links": 28
+      }
+    ],
+    "compounds_total": 107
+  },
+  {
+    "id": 327,
+    "plant_name": "WORMWOOD",
+    "scientific_name": "Artemisia absinthium",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "intestinal worms (worms)",
+      "bad breath (stinking breath)",
+      "difficulty urinating (provokes urine)",
+      "indigestion (surfeits)",
+      "abdominal swelling (swellings in the belly)",
+      "loss of appetite (causes appetite to meat)",
+      "jaundice (yellow jaundice)",
+      "suppressed menstruation (provokes the terms)",
+      "rat and mouse bites (biting of rats and mice)",
+      "mushroom poisoning (poisoned himself by eating them)",
+      "pimples (pushes)",
+      "bruises (black and blue spots)",
+      "quinsy (quinsy)",
+      "wasp stings (stung by a martial creature, imagine a wasp)",
+      "scabs (scabs)",
+      "itch (itch)",
+      "colic (cholic)",
+      "hangover (surfeit by drinking)",
+      "ague (ague)",
+      "dull brain (dull brain)",
+      "weak sight (weak sight)"
+    ],
+    "parts_used": [
+      "seed",
+      "flowers",
+      "leaves",
+      "stalks",
+      "herb"
+    ],
+    "preparations": [
+      "decoction",
+      "beer",
+      "plaster (plaister)"
+    ],
+    "ancient_dosage": "a draught of Wormwood beer every morning",
+    "source_quote": "Besides all this, Wormwood provokes the terms.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q25686",
+    "compounds": [
+      {
+        "name": "artemisinin",
+        "wikidata_id": "Q426921",
+        "found_in_taxa": 21,
+        "wikipedia_links": 39
+      },
+      {
+        "name": "absinthin",
+        "wikidata_id": "Q332313",
+        "found_in_taxa": 11,
+        "wikipedia_links": 17
+      },
+      {
+        "name": "(−)-methyl jasmonate",
+        "wikidata_id": "Q26840883",
+        "found_in_taxa": 18,
+        "wikipedia_links": 19
+      },
+      {
+        "name": "3,4,5-trimethoxybenzoic acid",
+        "wikidata_id": "Q3278222",
+        "found_in_taxa": 21,
+        "wikipedia_links": 16
+      },
+      {
+        "name": "chamazulene",
+        "wikidata_id": "Q909088",
+        "found_in_taxa": 24,
+        "wikipedia_links": 17
+      },
+      {
+        "name": "L-aspartic acid",
+        "wikidata_id": "Q178450",
+        "found_in_taxa": 107,
+        "wikipedia_links": 66
+      },
+      {
+        "name": "tryptophan",
+        "wikidata_id": "Q181003",
+        "found_in_taxa": 126,
+        "wikipedia_links": 66
+      },
+      {
+        "name": "L-valine",
+        "wikidata_id": "Q483752",
+        "found_in_taxa": 135,
+        "wikipedia_links": 66
+      }
+    ],
+    "compounds_total": 154
+  },
+  {
+    "id": 328,
+    "plant_name": "YARROW, CALLED NOSE-BLEED, MILFOIL AND THOUSAND-LEAL.",
+    "scientific_name": "Achillea millefolium",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "wounds",
+      "inflammations",
+      "excessive menstruation (the terms)",
+      "dysentery (the bloody flux)",
+      "ulcers",
+      "fistulas",
+      "hair loss (shedding of hair)",
+      "impaired stomach retention (retentive faculty of the stomach)",
+      "gonorrhea",
+      "leukorrhea (the whites)",
+      "urinary incontinence (cannot hold their water)",
+      "toothache (tooth-ache)",
+      "cramps"
+    ],
+    "parts_used": [
+      "leaves",
+      "herb"
+    ],
+    "preparations": [
+      "ointment",
+      "decoction"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "It stays the shedding of hair, the head being bathed with the decoction of it; inwardly taken it helps the retentive faculty of the stomach: it helps the gonorrhea in men, and the whites in women, and helps such as cannot hold their water; and the leaves chewed in the mouth eases the tooth-ache, and these virtues being put together, shew the herb to be drying and binding.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q25408",
+    "compounds": [
+      {
+        "name": "(RS)-mandelic acid",
+        "wikidata_id": "Q412293",
+        "found_in_taxa": 5,
+        "wikipedia_links": 29
+      },
+      {
+        "name": "azulene",
+        "wikidata_id": "Q144362",
+        "found_in_taxa": 10,
+        "wikipedia_links": 30
+      },
+      {
+        "name": "anisole",
+        "wikidata_id": "Q312244",
+        "found_in_taxa": 15,
+        "wikipedia_links": 36
+      },
+      {
+        "name": "adenine",
+        "wikidata_id": "Q15277",
+        "found_in_taxa": 38,
+        "wikipedia_links": 76
+      },
+      {
+        "name": "pyrocatechol",
+        "wikidata_id": "Q282440",
+        "found_in_taxa": 36,
+        "wikipedia_links": 40
+      },
+      {
+        "name": "hydroquinone",
+        "wikidata_id": "Q419164",
+        "found_in_taxa": 53,
+        "wikipedia_links": 43
+      },
+      {
+        "name": "phloroglucinol",
+        "wikidata_id": "Q899008",
+        "found_in_taxa": 36,
+        "wikipedia_links": 26
+      },
+      {
+        "name": "chamazulene",
+        "wikidata_id": "Q909088",
+        "found_in_taxa": 24,
+        "wikipedia_links": 17
+      }
+    ],
+    "compounds_total": 255
+  },
+  {
+    "id": 315,
+    "plant_name": "GARDEN VALERIAN",
+    "scientific_name": "Valeriana officinalis",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "difficulty urinating (stranguary)",
+      "pain in the side (pains of the sides)",
+      "menstrual disorders (women's courses)",
+      "obstructions (stoppings and stranglings)",
+      "chest pain (pains in the chest)",
+      "shortness of breath (short-winded)",
+      "cough",
+      "excess phlegm",
+      "venomous bites and stings (bitten or stung by any venomous creature)",
+      "plague",
+      "flatulence (wind in the belly)",
+      "headache (pains and prickings)",
+      "catarrh (rheum and thin distillation)",
+      "blurred vision (dimness of the sight)",
+      "eye spots (pin or web)",
+      "internal wounds (inward sores or wounds)",
+      "external wounds (outward hurts or wounds)",
+      "splinters (splinters or thorns out of the flesh)"
+    ],
+    "parts_used": [
+      "root",
+      "herb"
+    ],
+    "preparations": [
+      "decoction",
+      "powder",
+      "bruised herb"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "It helps to expel the wind in the belly.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q157819",
+    "compounds": [
+      {
+        "name": "valerenic acid",
+        "wikidata_id": "Q75850",
+        "found_in_taxa": 2,
+        "wikipedia_links": 13
+      },
+      {
+        "name": "isovaleramide",
+        "wikidata_id": "Q6086595",
+        "found_in_taxa": 2,
+        "wikipedia_links": 12
+      },
+      {
+        "name": "pentyl valerate",
+        "wikidata_id": "Q3374901",
+        "found_in_taxa": 3,
+        "wikipedia_links": 12
+      },
+      {
+        "name": "dimethylallyl pyrophosphate",
+        "wikidata_id": "Q417398",
+        "found_in_taxa": 10,
+        "wikipedia_links": 23
+      },
+      {
+        "name": "L-glutamine",
+        "wikidata_id": "Q181619",
+        "found_in_taxa": 40,
+        "wikipedia_links": 64
+      },
+      {
+        "name": "isopentenyl pyrophosphate",
+        "wikidata_id": "Q417403",
+        "found_in_taxa": 15,
+        "wikipedia_links": 24
+      },
+      {
+        "name": "Isoeugenyl acetate",
+        "wikidata_id": "Q72485314",
+        "found_in_taxa": 2,
+        "wikipedia_links": 3
+      },
+      {
+        "name": "actinidine",
+        "wikidata_id": "Q343309",
+        "found_in_taxa": 10,
+        "wikipedia_links": 15
+      }
+    ],
+    "compounds_total": 393
+  },
+  {
+    "id": 201,
+    "plant_name": "MINT",
+    "scientific_name": "Mentha spicata",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "bleeding",
+      "hiccough",
+      "vomiting",
+      "imposthumes",
+      "excessive breast milk (repress the milk in women’s breasts)",
+      "swollen breasts (swollen, flagging, or great breasts)",
+      "mad dog bites (biting of a mad dog)",
+      "earache (pains of the ears)",
+      "roughness of the tongue",
+      "curdling of milk in the stomach",
+      "menstrual disorders (women’s courses)",
+      "leukorrhea (the whites)",
+      "headache (pains in the head)",
+      "skin eruptions (breakings-out, sores or scabs)",
+      "poisoning (poison of venomous creatures)",
+      "indigestion",
+      "loss of appetite",
+      "liver obstructions (obstructions of the liver)",
+      "spleen disorders (splenetic)",
+      "painful labor (sore travail in child-bearing)",
+      "kidney stones and gravel (gravel and stone in the kidneys)",
+      "strangury (stranguary)",
+      "sore gums and mouth",
+      "bad breath (ill-savoured breath)",
+      "flatulence (wind in the stomach)",
+      "colic (cholic)",
+      "shortness of breath (short-winded)",
+      "nocturnal emissions (venerial dreams and pollutions in the night)",
+      "ear worms (worms that breed therein)",
+      "snake bites (venemous biting of serpents)",
+      "scrofula (king’s evil, or kernels in the throat)",
+      "leprosy",
+      "dandruff (scurf or dandriff of the head)"
+    ],
+    "parts_used": [
+      "leaves",
+      "root",
+      "branches"
+    ],
+    "preparations": [
+      "juice",
+      "powder",
+      "distilled water",
+      "spirit",
+      "decoction"
+    ],
+    "ancient_dosage": "two or three branches thereof taken in the juice of four pomegranates",
+    "source_quote": "It is good against the gravel and stone in the kidneys, and the stranguary.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q160114",
+    "compounds": [
+      {
+        "name": "diazepam",
+        "wikidata_id": "Q210402",
+        "found_in_taxa": 11,
+        "wikipedia_links": 60
+      },
+      {
+        "name": "isobutyraldehyde",
+        "wikidata_id": "Q418164",
+        "found_in_taxa": 13,
+        "wikipedia_links": 24
+      },
+      {
+        "name": "umbellulone",
+        "wikidata_id": "Q7881242",
+        "found_in_taxa": 5,
+        "wikipedia_links": 9
+      },
+      {
+        "name": "1-octadecene",
+        "wikidata_id": "Q10859725",
+        "found_in_taxa": 18,
+        "wikipedia_links": 14
+      },
+      {
+        "name": "tridecanoic acid",
+        "wikidata_id": "Q419857",
+        "found_in_taxa": 46,
+        "wikipedia_links": 23
+      },
+      {
+        "name": "(±)-carvone",
+        "wikidata_id": "Q416800",
+        "found_in_taxa": 59,
+        "wikipedia_links": 29
+      },
+      {
+        "name": "icosane",
+        "wikidata_id": "Q150925",
+        "found_in_taxa": 83,
+        "wikipedia_links": 37
+      },
+      {
+        "name": "diosmin",
+        "wikidata_id": "Q2607865",
+        "found_in_taxa": 42,
+        "wikipedia_links": 18
+      }
+    ],
+    "compounds_total": 194
+  },
+  {
+    "id": 121,
+    "plant_name": "FENNEL",
+    "scientific_name": "Foeniculum vulgare",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "flatulence (break wind)",
+      "difficulty urinating (provoke urine)",
+      "kidney stones (pains of the stone)",
+      "insufficient lactation (increase their milk)",
+      "hiccups (stays the hiccough)",
+      "nausea (loathings which oftentimes happen to the stomachs)",
+      "snake bites (bitten with serpents)",
+      "poisoning (eaten poisonous herbs, or mushrooms)",
+      "liver obstructions (obstructions of the liver)",
+      "spleen obstructions (obstructions of the... spleen)",
+      "gallbladder obstructions (obstructions of the... gall)",
+      "splenic swelling (painful and windy swellings of the spleen)",
+      "jaundice (yellow jaundice)",
+      "gout",
+      "cramps",
+      "shortness of breath",
+      "wheezing",
+      "menstrual suppression (bring down the courses)",
+      "postpartum cleansing (cleanse the parts after delivery)",
+      "poor complexion (ill colour in the face after sickness)",
+      "obesity (make people more lean that are too fat)",
+      "impaired vision (mists and films that hinder the sight)"
+    ],
+    "parts_used": [
+      "leaves",
+      "seed",
+      "roots",
+      "whole herb"
+    ],
+    "preparations": [
+      "boiled in barley water",
+      "boiled in water",
+      "boiled in wine",
+      "physic drinks",
+      "broth",
+      "distilled water",
+      "condensate juice",
+      "natural juice"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "Fennel is good to break wind, to provoke urine, and ease the pains of the stone, and helps to break it.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q43511",
+    "compounds": [
+      {
+        "name": "sorbic acid",
+        "wikidata_id": "Q407131",
+        "found_in_taxa": 3,
+        "wikipedia_links": 40
+      },
+      {
+        "name": "D-mannoheptulose",
+        "wikidata_id": "Q897649",
+        "found_in_taxa": 2,
+        "wikipedia_links": 20
+      },
+      {
+        "name": "(+)-norpseudoephedrine",
+        "wikidata_id": "Q423797",
+        "found_in_taxa": 3,
+        "wikipedia_links": 28
+      },
+      {
+        "name": "pinacol",
+        "wikidata_id": "Q421634",
+        "found_in_taxa": 3,
+        "wikipedia_links": 24
+      },
+      {
+        "name": "acetylcholine",
+        "wikidata_id": "Q180623",
+        "found_in_taxa": 15,
+        "wikipedia_links": 66
+      },
+      {
+        "name": "cyclamen aldehyde",
+        "wikidata_id": "Q19903910",
+        "found_in_taxa": 2,
+        "wikipedia_links": 7
+      },
+      {
+        "name": "thujone",
+        "wikidata_id": "Q27121853",
+        "found_in_taxa": 10,
+        "wikipedia_links": 32
+      },
+      {
+        "name": "2'-deoxyadenosine",
+        "wikidata_id": "Q422457",
+        "found_in_taxa": 8,
+        "wikipedia_links": 25
+      }
+    ],
+    "compounds_total": 384
+  },
+  {
+    "id": 307,
+    "plant_name": "THYME",
+    "scientific_name": "Thymus vulgaris",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "whooping cough (Chin-cough)",
+      "excess phlegm (phlegm)",
+      "shortness of breath",
+      "intestinal worms (worms in the belly)",
+      "menstrual suppression (the terms)",
+      "difficult childbirth (women in travail)",
+      "retained placenta (after birth)",
+      "hot swellings",
+      "warts",
+      "sciatica",
+      "impaired vision (dullness of sight)",
+      "spleen pain and hardness (pains and hardness of the spleen)",
+      "gout",
+      "loin and hip pain (pains in the loins and hips)",
+      "indigestion (comforts the stomach)",
+      "flatulence (wind)"
+    ],
+    "parts_used": [
+      "herb"
+    ],
+    "preparations": [
+      "ointment"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "It purges the body of phlegm, and is an excellent remedy for shortness of breath.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q148668",
+    "compounds": [
+      {
+        "name": "verbenol",
+        "wikidata_id": "Q2514085",
+        "found_in_taxa": 7,
+        "wikipedia_links": 8
+      },
+      {
+        "name": "ethyl isovalerate",
+        "wikidata_id": "Q2815995",
+        "found_in_taxa": 10,
+        "wikipedia_links": 10
+      },
+      {
+        "name": "1-pentanol",
+        "wikidata_id": "Q151733",
+        "found_in_taxa": 37,
+        "wikipedia_links": 34
+      },
+      {
+        "name": "carotol",
+        "wikidata_id": "Q5045553",
+        "found_in_taxa": 13,
+        "wikipedia_links": 7
+      },
+      {
+        "name": "anethol",
+        "wikidata_id": "Q27105777",
+        "found_in_taxa": 63,
+        "wikipedia_links": 32
+      },
+      {
+        "name": "salicylic acid",
+        "wikidata_id": "Q193572",
+        "found_in_taxa": 143,
+        "wikipedia_links": 65
+      },
+      {
+        "name": "coumarin",
+        "wikidata_id": "Q111812",
+        "found_in_taxa": 132,
+        "wikipedia_links": 52
+      },
+      {
+        "name": "narirutin",
+        "wikidata_id": "Q13569061",
+        "found_in_taxa": 26,
+        "wikipedia_links": 8
+      }
+    ],
+    "compounds_total": 154
+  },
+  {
+    "id": 135,
+    "plant_name": "GARLICK",
+    "scientific_name": "Allium sativum",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "difficulty urinating (provokes urine)",
+      "menstrual disorders (women's courses)",
+      "bites of mad dogs (biting of mad dogs)",
+      "venomous bites (venomous creatures)",
+      "intestinal worms (worms in children)",
+      "phlegm (tough phlegm)",
+      "lethargy",
+      "plague",
+      "ulcers (foul ulcers)",
+      "skin blemishes (spots and blemishes in the skin)",
+      "earache (pains in the ears)",
+      "abscesses (imposthumes)",
+      "swellings",
+      "fever (corrupt agues)",
+      "poisoning",
+      "dropsy (hydropick diseases)",
+      "jaundice (the jaundice)",
+      "epilepsy (falling sickness)",
+      "cramps",
+      "convulsions",
+      "hemorrhoids (the piles or hæmorrhoids)"
+    ],
+    "parts_used": null,
+    "preparations": null,
+    "ancient_dosage": null,
+    "source_quote": "It is also held good in hydropick diseases, the jaundice, falling sickness, cramps, convulsions, the piles or hæmorrhoids, or other cold diseases.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q23400",
+    "compounds": [
+      {
+        "name": "(+)-L-alliin",
+        "wikidata_id": "Q57741566",
+        "found_in_taxa": 2,
+        "wikipedia_links": 27
+      },
+      {
+        "name": "L-selenocysteine",
+        "wikidata_id": "Q408663",
+        "found_in_taxa": 4,
+        "wikipedia_links": 41
+      },
+      {
+        "name": "(E)-ajoene",
+        "wikidata_id": "Q338762",
+        "found_in_taxa": 2,
+        "wikipedia_links": 16
+      },
+      {
+        "name": "propyl mercaptan",
+        "wikidata_id": "Q161679",
+        "found_in_taxa": 4,
+        "wikipedia_links": 21
+      },
+      {
+        "name": "inulin",
+        "wikidata_id": "Q201552",
+        "found_in_taxa": 14,
+        "wikipedia_links": 52
+      },
+      {
+        "name": "allicin",
+        "wikidata_id": "Q409641",
+        "found_in_taxa": 10,
+        "wikipedia_links": 35
+      },
+      {
+        "name": "S-allylcysteine",
+        "wikidata_id": "Q7387047",
+        "found_in_taxa": 3,
+        "wikipedia_links": 10
+      },
+      {
+        "name": "glutathione",
+        "wikidata_id": "Q116907",
+        "found_in_taxa": 21,
+        "wikipedia_links": 51
+      }
+    ],
+    "compounds_total": 231
+  },
+  {
+    "id": 5,
+    "plant_name": "AGRIMONY",
+    "scientific_name": "Agrimonia eupatoria",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "gout",
+      "jaundice",
+      "inward wounds",
+      "bruises",
+      "snake bites (biting and stinging of serpents)",
+      "bloody or troubled urine (foul, troubled or bloody water)",
+      "colic (cholic)",
+      "chest congestion (cleanses the breast)",
+      "cough",
+      "fever (tertian or quartan agues)",
+      "dysentery (bloody flux)",
+      "old sores",
+      "cancer (cancers)",
+      "ulcers (inveterate ulcers)",
+      "splinters (thorns and splinters of wood, nails, or any other such things gotten in the flesh)",
+      "dislocated joints (members that be out of joint)",
+      "ear infections (foul and imposthumed ears)",
+      "liver disorders"
+    ],
+    "parts_used": [
+      "herb",
+      "leaves",
+      "seeds"
+    ],
+    "preparations": [
+      "oil",
+      "ointment",
+      "electuary",
+      "syrup",
+      "concerted juice",
+      "decoction",
+      "juice",
+      "distilled water"
+    ],
+    "ancient_dosage": "A draught of the decoction taken warm before the fit",
+    "source_quote": "This herb also helps the cholic, cleanses the breast, and rids away the cough.",
+    "source_quote_verified": true,
+    "model": "gemini-3.6-flash",
+    "extracted_by": "gemini",
+    "wikidata_id": "Q156865",
+    "compounds": [
+      {
+        "name": "kaempferide",
+        "wikidata_id": "Q3116775",
+        "found_in_taxa": 68,
+        "wikipedia_links": 12
+      },
+      {
+        "name": "afzelin",
+        "wikidata_id": "Q3334749",
+        "found_in_taxa": 164,
+        "wikipedia_links": 7
+      },
+      {
+        "name": "rutin",
+        "wikidata_id": "Q407857",
+        "found_in_taxa": 966,
+        "wikipedia_links": 31
+      },
+      {
+        "name": "luteolin-7-O-β-glucuronide",
+        "wikidata_id": "Q76280934",
+        "found_in_taxa": 129,
+        "wikipedia_links": 4
+      },
+      {
+        "name": "isoquercetin",
+        "wikidata_id": "Q6086296",
+        "found_in_taxa": 394,
+        "wikipedia_links": 11
+      },
+      {
+        "name": "quercitrin",
+        "wikidata_id": "Q1649777",
+        "found_in_taxa": 554,
+        "wikipedia_links": 12
+      },
+      {
+        "name": "quercetin",
+        "wikidata_id": "Q409478",
+        "found_in_taxa": 1747,
+        "wikipedia_links": 34
+      },
+      {
+        "name": "apigetrin",
+        "wikidata_id": "Q2858304",
+        "found_in_taxa": 464,
+        "wikipedia_links": 9
+      }
+    ],
+    "compounds_total": 21
+  },
+  {
+    "id": 132,
+    "plant_name": "FOX-GLOVE",
+    "scientific_name": "Digitalis purpurea",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "wounds (fresh or green wound)",
+      "sores (old sores)",
+      "phlegm (tough phlegm)",
+      "liver obstructions (obstructions of the liver)",
+      "spleen obstructions (obstructions of the spleen)",
+      "scrofula (king’s evil)",
+      "epilepsy (falling sickness)",
+      "scalp conditions (scabby head)"
+    ],
+    "parts_used": [
+      "leaves",
+      "herb"
+    ],
+    "preparations": [
+      "juice",
+      "decoction",
+      "ointment"
+    ],
+    "ancient_dosage": "a decoction of two handfuls thereof, with four ounces of Polipody in ale",
+    "source_quote": "I am confident that an ointment of it is one of the best remedies for scabby head that is.",
+    "source_quote_verified": true,
+    "extracted_by": "gemini",
+    "model": "gemini-3.6-flash",
+    "wikidata_id": "Q157555",
+    "compounds": [
+      {
+        "name": "digitoxin",
+        "wikidata_id": "Q423890",
+        "found_in_taxa": 7,
+        "wikipedia_links": 28
+      },
+      {
+        "name": "digitonin",
+        "wikidata_id": "Q410968",
+        "found_in_taxa": 4,
+        "wikipedia_links": 12
+      },
+      {
+        "name": "deslanoside",
+        "wikidata_id": "Q5264583",
+        "found_in_taxa": 4,
+        "wikipedia_links": 8
+      },
+      {
+        "name": "lanatoside C",
+        "wikidata_id": "Q6482953",
+        "found_in_taxa": 4,
+        "wikipedia_links": 8
+      },
+      {
+        "name": "nicotinic acid",
+        "wikidata_id": "Q134658",
+        "found_in_taxa": 52,
+        "wikipedia_links": 37
+      },
+      {
+        "name": "digitoxigenin",
+        "wikidata_id": "Q411469",
+        "found_in_taxa": 18,
+        "wikipedia_links": 10
+      },
+      {
+        "name": "dodecane",
+        "wikidata_id": "Q150744",
+        "found_in_taxa": 72,
+        "wikipedia_links": 40
+      },
+      {
+        "name": "tridecane",
+        "wikidata_id": "Q150788",
+        "found_in_taxa": 68,
+        "wikipedia_links": 37
+      }
+    ],
+    "compounds_total": 140
+  },
+  {
+    "id": 242,
+    "plant_name": "POPPY",
+    "scientific_name": "Papaver somniferum",
+    "scientific_name_confidence": "medium",
+    "indications": [
+      "insomnia (to procure rest and sleep)",
+      "cough (catarrhs and defluxions of thin rheums causing a continual cough)",
+      "hoarseness (hoarseness of the throat)",
+      "loss of voice",
+      "diarrhea (flux of the belly)",
+      "heavy menstruation (women's courses)",
+      "inflammation (inflammations)",
+      "erysipelas (St. Anthony's fire)",
+      "headache (pains in the head)",
+      "pain",
+      "fever (agues)",
+      "delirium (frenzies)",
+      "tuberculosis (consumption)",
+      "toothache (hollow teeth)",
+      "gout",
+      "epilepsy (falling-sickness)",
+      "pleurisy",
+      "overeating (surfeits)"
+    ],
+    "parts_used": [
+      "seed heads",
+      "seeds",
+      "leaves",
+      "flowers",
+      "milky juice (opium)",
+      "seed oil"
+    ],
+    "preparations": [
+      "syrup",
+      "decoction",
+      "oil",
+      "poultice",
+      "distilled water",
+      "powder"
+    ],
+    "ancient_dosage": "distilled water of the flowers drank evening and morning",
+    "source_quote": "The garden Poppy heads with seeds made into a syrup, is frequently, and to good effect used to procure rest, and sleep, in the sick and weak",
+    "source_quote_verified": true,
+    "extracted_by": "claude",
+    "model": "claude-opus-5-5",
+    "wikidata_id": "Q131584",
+    "compounds": [
+      {
+        "name": "D-mannoheptulose",
+        "wikidata_id": "Q897649",
+        "found_in_taxa": 2,
+        "wikipedia_links": 20
+      },
+      {
+        "name": "morphine",
+        "wikidata_id": "Q81225",
+        "found_in_taxa": 13,
+        "wikipedia_links": 93
+      },
+      {
+        "name": "codeine",
+        "wikidata_id": "Q174723",
+        "found_in_taxa": 10,
+        "wikipedia_links": 67
+      },
+      {
+        "name": "norcodeine (stereochemistry defined)",
+        "wikidata_id": "Q4327388",
+        "found_in_taxa": 2,
+        "wikipedia_links": 10
+      },
+      {
+        "name": "sedoheptulose",
+        "wikidata_id": "Q1091415",
+        "found_in_taxa": 6,
+        "wikipedia_links": 24
+      },
+      {
+        "name": "phthalic acid",
+        "wikidata_id": "Q423876",
+        "found_in_taxa": 13,
+        "wikipedia_links": 43
+      },
+      {
+        "name": "retinol",
+        "wikidata_id": "Q424976",
+        "found_in_taxa": 16,
+        "wikipedia_links": 43
+      },
+      {
+        "name": "oripavine",
+        "wikidata_id": "Q420639",
+        "found_in_taxa": 5,
+        "wikipedia_links": 13
+      }
+    ],
+    "compounds_total": 108
+  },
+  {
+    "id": 120,
+    "plant_name": "FEVERFEW",
+    "scientific_name": "Tanacetum parthenium",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "retained placenta (expels the after-birth)",
+      "uterine disorders (disease of the mother)",
+      "absent or delayed menstruation (to bring down women's courses)",
+      "stillbirth expulsion (expel the dead birth)",
+      "cough (cough and stuffing of the chest by colds)",
+      "kidney and bladder stones (the stone)",
+      "shortness of breath (short winded)",
+      "depression (melancholy and heaviness, or sadness of spirits)",
+      "headache (pains in the head coming of a cold cause)",
+      "vertigo (running or swimming in the head)",
+      "intermittent fever (ague fits)",
+      "freckles and facial spots",
+      "flatulence and colic (wind and cholic)",
+      "opium overdose (opium taken too liberally)"
+    ],
+    "parts_used": [
+      "herb",
+      "flowers"
+    ],
+    "preparations": [
+      "decoction in wine",
+      "syrup",
+      "fumigation (sitting over the hot fumes of the decoction)",
+      "powder in wine with oxymel",
+      "poultice (bruised herb)",
+      "distilled water"
+    ],
+    "ancient_dosage": "a decoction of the flowers in wine, with a little Nutmeg or Mace, drank often in a day",
+    "source_quote": "It is very effectual for all pains in the head coming of a cold cause, the herb being bruised and applied to the crown of the head",
+    "source_quote_verified": true,
+    "extracted_by": "claude",
+    "model": "claude-opus-5-5",
+    "wikidata_id": "Q818481",
+    "compounds": [
+      {
+        "name": "allethrin",
+        "wikidata_id": "Q1851694",
+        "found_in_taxa": 2,
+        "wikipedia_links": 13
+      },
+      {
+        "name": "Pyrethrin II",
+        "wikidata_id": "Q7263466",
+        "found_in_taxa": 3,
+        "wikipedia_links": 6
+      },
+      {
+        "name": "4-ethylbenzaldehyde",
+        "wikidata_id": "Q4637128",
+        "found_in_taxa": 5,
+        "wikipedia_links": 8
+      },
+      {
+        "name": "4-methylbenzaldehyde",
+        "wikidata_id": "Q3266675",
+        "found_in_taxa": 12,
+        "wikipedia_links": 14
+      },
+      {
+        "name": "1H-indole",
+        "wikidata_id": "Q319541",
+        "found_in_taxa": 51,
+        "wikipedia_links": 57
+      },
+      {
+        "name": "benzyl acetate",
+        "wikidata_id": "Q424223",
+        "found_in_taxa": 27,
+        "wikipedia_links": 27
+      },
+      {
+        "name": "melatonin",
+        "wikidata_id": "Q180912",
+        "found_in_taxa": 84,
+        "wikipedia_links": 76
+      },
+      {
+        "name": "benzyl propionate",
+        "wikidata_id": "Q10869281",
+        "found_in_taxa": 6,
+        "wikipedia_links": 3
+      }
+    ],
+    "compounds_total": 194
+  },
+  {
+    "id": 100,
+    "plant_name": "DANDELION",
+    "scientific_name": "Taraxacum officinale",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "liver obstruction (obstructions of the liver)",
+      "gallbladder obstruction (obstructions of the gall)",
+      "spleen obstruction (obstructions of the spleen)",
+      "jaundice",
+      "hypochondria (hypocondriac)",
+      "urinary retention (opens the passages of the urine)",
+      "urinary tract abscesses and ulcers (imposthumes and inward ulcers in the urinary passage)",
+      "tuberculosis (consumption)",
+      "cachexia",
+      "sleeplessness during fever (to procure rest and sleep to bodies distempered by the heat of ague fits)",
+      "plague fevers (pestilential fevers)",
+      "sores"
+    ],
+    "parts_used": [
+      "roots",
+      "leaves"
+    ],
+    "preparations": [
+      "decoction in white wine",
+      "cooked as a pot-herb in broth",
+      "distilled water"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "It is of an opening and cleansing quality, and therefore very effectual for the obstructions of the liver, gall and spleen, and the diseases that arise from them, as the jaundice and hypocondriac",
+    "source_quote_verified": true,
+    "extracted_by": "claude",
+    "model": "claude-opus-5-5",
+    "wikidata_id": "Q131219",
+    "compounds": [
+      {
+        "name": "inulin",
+        "wikidata_id": "Q201552",
+        "found_in_taxa": 14,
+        "wikipedia_links": 52
+      },
+      {
+        "name": "flavoxanthin",
+        "wikidata_id": "Q605574",
+        "found_in_taxa": 7,
+        "wikipedia_links": 17
+      },
+      {
+        "name": "arachidonic acid",
+        "wikidata_id": "Q407699",
+        "found_in_taxa": 92,
+        "wikipedia_links": 48
+      },
+      {
+        "name": "chicoric acid",
+        "wikidata_id": "Q5119402",
+        "found_in_taxa": 20,
+        "wikipedia_links": 10
+      },
+      {
+        "name": "tridecanoic acid",
+        "wikidata_id": "Q419857",
+        "found_in_taxa": 46,
+        "wikipedia_links": 23
+      },
+      {
+        "name": "nonadecanoic acid",
+        "wikidata_id": "Q412597",
+        "found_in_taxa": 50,
+        "wikipedia_links": 22
+      },
+      {
+        "name": "coumestrol",
+        "wikidata_id": "Q908865",
+        "found_in_taxa": 32,
+        "wikipedia_links": 13
+      },
+      {
+        "name": "myristoleic acid",
+        "wikidata_id": "Q58221",
+        "found_in_taxa": 49,
+        "wikipedia_links": 18
+      }
+    ],
+    "compounds_total": 91
+  },
+  {
+    "id": 86,
+    "plant_name": "COMFREY",
+    "scientific_name": "Symphytum officinale",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "coughing up blood (spit blood)",
+      "blood in urine (bloody urine)",
+      "internal injuries and bruises (inward hurts, bruises)",
+      "wounds",
+      "lung ulcers (ulcer of the lungs)",
+      "phlegm",
+      "catarrh (defluction of rheum from the head upon the lungs)",
+      "diarrhea and dysentery (fluxes of blood or humours by the belly)",
+      "heavy menstruation (women's immoderate courses)",
+      "vaginal discharge (the whites)",
+      "urethral discharge (running of the reins)",
+      "intermittent fever (agues)",
+      "hernia (ruptures)",
+      "broken bones",
+      "breast engorgement (breasts that grow sore by the abundance of milk)",
+      "bleeding hemorrhoids (hæmorrhoids)",
+      "gout",
+      "joint pain (pained joints)",
+      "ulcers (running and moist ulcers)",
+      "gangrene (gangrenes, mortifications)"
+    ],
+    "parts_used": [
+      "root",
+      "leaves"
+    ],
+    "preparations": [
+      "decoction in water or wine",
+      "syrup",
+      "distilled water",
+      "poultice (fresh root beaten and spread on leather)"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "The Great Comfrey helps those that spit blood, or make a bloody urine.",
+    "source_quote_verified": true,
+    "extracted_by": "claude",
+    "model": "claude-opus-5-5",
+    "wikidata_id": "Q157561",
+    "compounds": [
+      {
+        "name": "allantoin",
+        "wikidata_id": "Q409804",
+        "found_in_taxa": 49,
+        "wikipedia_links": 36
+      },
+      {
+        "name": "cholesterol",
+        "wikidata_id": "Q43656",
+        "found_in_taxa": 496,
+        "wikipedia_links": 108
+      },
+      {
+        "name": "symphytine",
+        "wikidata_id": "Q27108367",
+        "found_in_taxa": 6,
+        "wikipedia_links": 1
+      },
+      {
+        "name": "intermedine",
+        "wikidata_id": "Q27106936",
+        "found_in_taxa": 42,
+        "wikipedia_links": 2
+      },
+      {
+        "name": "(E)-chlorogenic acid",
+        "wikidata_id": "Q421964",
+        "found_in_taxa": 626,
+        "wikipedia_links": 28
+      },
+      {
+        "name": "trans-caffeic acid",
+        "wikidata_id": "Q414116",
+        "found_in_taxa": 745,
+        "wikipedia_links": 31
+      },
+      {
+        "name": "campesterol",
+        "wikidata_id": "Q2756479",
+        "found_in_taxa": 479,
+        "wikipedia_links": 15
+      },
+      {
+        "name": "lycopsamine",
+        "wikidata_id": "Q27107262",
+        "found_in_taxa": 44,
+        "wikipedia_links": 1
+      }
+    ],
+    "compounds_total": 37
+  },
+  {
+    "id": 180,
+    "plant_name": "LIQUORICE",
+    "scientific_name": "Glycyrrhiza glabra",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "dry cough",
+      "hoarseness",
+      "wheezing",
+      "shortness of breath",
+      "chest and lung complaints (griefs of the breast and lungs)",
+      "tuberculosis (phthisic or consumptions)",
+      "kidney pain (pains of the reins)",
+      "painful urination (the stranguary, heat of urine)",
+      "corneal opacity (pin and web)",
+      "watery eyes (rheumatic distillations)"
+    ],
+    "parts_used": [
+      "juice"
+    ],
+    "preparations": [
+      "decoction (with Maiden-hair and figs)",
+      "powder (blown into the eyes)",
+      "juice",
+      "linctus (juice in Rose-water with Gum Tragacanth)"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "Liquorice boiled in fair water, with some Maiden-hair and figs, makes a good drink for those that have a dry cough or hoarseness, wheezing or shortness of breath",
+    "source_quote_verified": true,
+    "extracted_by": "claude",
+    "model": "claude-opus-5-5",
+    "wikidata_id": "Q257106",
+    "compounds": [
+      {
+        "name": "irinotecan",
+        "wikidata_id": "Q412197",
+        "found_in_taxa": 2,
+        "wikipedia_links": 28
+      },
+      {
+        "name": "tert-butylhydroquinone",
+        "wikidata_id": "Q662443",
+        "found_in_taxa": 3,
+        "wikipedia_links": 19
+      },
+      {
+        "name": "N-methyl-2-pyrrolidone",
+        "wikidata_id": "Q33103",
+        "found_in_taxa": 5,
+        "wikipedia_links": 19
+      },
+      {
+        "name": "etoposide",
+        "wikidata_id": "Q418817",
+        "found_in_taxa": 8,
+        "wikipedia_links": 29
+      },
+      {
+        "name": "butanone",
+        "wikidata_id": "Q372291",
+        "found_in_taxa": 15,
+        "wikipedia_links": 43
+      },
+      {
+        "name": "pyruvic acid",
+        "wikidata_id": "Q213580",
+        "found_in_taxa": 21,
+        "wikipedia_links": 57
+      },
+      {
+        "name": "(R)-mevalonic acid",
+        "wikidata_id": "Q241678",
+        "found_in_taxa": 12,
+        "wikipedia_links": 32
+      },
+      {
+        "name": "enoxolone",
+        "wikidata_id": "Q5948038",
+        "found_in_taxa": 5,
+        "wikipedia_links": 13
+      }
+    ],
+    "compounds_total": 461
+  },
+  {
+    "id": 23,
+    "plant_name": "BALM",
+    "scientific_name": "Melissa officinalis",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "weak stomach",
+      "low mood (melancholy or black choler)",
+      "fainting (faintings and swoonings)",
+      "anxiety (troublesome cares and thoughts)",
+      "indigestion (to help digestion)",
+      "scorpion stings",
+      "rabid dog bites (bitings of mad dogs)",
+      "absent menstruation (to procure their courses)",
+      "toothache (aching teeth)",
+      "dysentery (bloody flux)",
+      "mushroom poisoning (surfeit of mushrooms)",
+      "abdominal cramps (griping pains of the belly)",
+      "breathing difficulty (cannot fetch their breath)",
+      "cysts and hard swellings (wens, kernels, or hard swelling)",
+      "infected sores (foul sores)",
+      "gout",
+      "liver and spleen complaints",
+      "retained placenta (after-birth not thoroughly voided)",
+      "boils"
+    ],
+    "parts_used": [
+      "leaves",
+      "herb",
+      "juice"
+    ],
+    "preparations": [
+      "syrup",
+      "electuary with honey",
+      "leaves steeped in wine",
+      "decoction (bath)",
+      "caudle with eggs",
+      "poultice (boiled in wine and oil)"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "Seraphio says, it causes the mind and heart to become merry, and revives the heart, faintings and swoonings",
+    "source_quote_verified": true,
+    "extracted_by": "claude",
+    "model": "claude-opus-5-5",
+    "wikidata_id": "Q148396",
+    "compounds": [
+      {
+        "name": "3-(4-hydroxyphenyl)pyruvic acid",
+        "wikidata_id": "Q2823224",
+        "found_in_taxa": 12,
+        "wikipedia_links": 17
+      },
+      {
+        "name": "phenylalanine",
+        "wikidata_id": "Q170545",
+        "found_in_taxa": 49,
+        "wikipedia_links": 64
+      },
+      {
+        "name": "danshensu",
+        "wikidata_id": "Q10395557",
+        "found_in_taxa": 5,
+        "wikipedia_links": 4
+      },
+      {
+        "name": "δ-octalactone",
+        "wikidata_id": "Q27270106",
+        "found_in_taxa": 5,
+        "wikipedia_links": 4
+      },
+      {
+        "name": "furfural",
+        "wikidata_id": "Q412429",
+        "found_in_taxa": 62,
+        "wikipedia_links": 44
+      },
+      {
+        "name": "tridecane",
+        "wikidata_id": "Q150788",
+        "found_in_taxa": 68,
+        "wikipedia_links": 37
+      },
+      {
+        "name": "citral",
+        "wikidata_id": "Q60176530",
+        "found_in_taxa": 59,
+        "wikipedia_links": 31
+      },
+      {
+        "name": "caproic acid",
+        "wikidata_id": "Q422597",
+        "found_in_taxa": 77,
+        "wikipedia_links": 39
+      }
+    ],
+    "compounds_total": 139
+  },
+  {
+    "id": 2,
+    "plant_name": "ALL-HEAL",
+    "scientific_name": "Opopanax chironium",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "worms",
+      "gout",
+      "cramp",
+      "convulsions",
+      "difficulty urinating (provokes urine)",
+      "joint aches (joint-aches)",
+      "cold ailments of the head (cold griefs of the head)",
+      "vertigo",
+      "epilepsy (falling-sickness)",
+      "lethargy",
+      "flatulent colic (wind cholic)",
+      "liver obstructions (obstructions of the liver)",
+      "spleen obstructions (obstructions of the spleen)",
+      "kidney stones (stone in the kidneys)",
+      "bladder stones (stone in the bladder)",
+      "suppressed menstruation (provokes the terms)",
+      "expels dead fetus (expels the dead birth)",
+      "nerve pain (griefs of the sinews)",
+      "itch",
+      "toothache (tooth-ache)",
+      "bites of mad dogs (biting of mad dogs)",
+      "bites of venomous animals (biting of venomous beasts)",
+      "excess choler (purges choler very gently)"
+    ],
+    "parts_used": null,
+    "preparations": null,
+    "ancient_dosage": null,
+    "source_quote": "It kills the worms, helps the gout, cramp, and convulsions, provokes urine, and helps all joint-aches.",
+    "source_quote_verified": true,
+    "model": "gemini-3.8-flash",
+    "extracted_by": "gemini",
+    "wikidata_id": "Q13560912",
+    "compounds": [
+      {
+        "name": "(+)-marmesin",
+        "wikidata_id": "Q13847605",
+        "found_in_taxa": 73,
+        "wikipedia_links": 10
+      },
+      {
+        "name": "imperatorin",
+        "wikidata_id": "Q1649534",
+        "found_in_taxa": 117,
+        "wikipedia_links": 12
+      },
+      {
+        "name": "methoxsalen",
+        "wikidata_id": "Q408570",
+        "found_in_taxa": 128,
+        "wikipedia_links": 11
+      },
+      {
+        "name": "bergapten",
+        "wikidata_id": "Q414779",
+        "found_in_taxa": 200,
+        "wikipedia_links": 15
+      },
+      {
+        "name": "heraclenol",
+        "wikidata_id": "Q3785098",
+        "found_in_taxa": 19,
+        "wikipedia_links": 1
+      },
+      {
+        "name": "umbelliprenin",
+        "wikidata_id": "Q27284214",
+        "found_in_taxa": 26,
+        "wikipedia_links": 1
+      }
+    ],
+    "compounds_total": 42
+  },
+  {
+    "id": 1,
+    "plant_name": "AMARA DULCIS",
+    "scientific_name": "Solanum dulcamara",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "vertigo",
+      "dizziness (dizziness in the head)",
+      "felons",
+      "liver obstructions (obstructions of the liver)",
+      "spleen obstructions (obstructions of the spleen)",
+      "shortness of breath (difficulty of breath)",
+      "bruises",
+      "falls",
+      "congealed blood",
+      "jaundice (yellow jaundice)",
+      "dropsy",
+      "black jaundice",
+      "postpartum cleansing (cleanse women newly brought to bed)"
+    ],
+    "parts_used": [
+      "wood",
+      "leaves",
+      "berries"
+    ],
+    "preparations": [
+      "infusion",
+      "drink"
+    ],
+    "ancient_dosage": "a quarter of a pint of the infusion every morning",
+    "source_quote": "Country people commonly take the berries of it, and having bruised them, apply them to felons, and thereby soon rid their fingers of such troublesome guests.",
+    "source_quote_verified": true,
+    "model": "gemini-3.5-flash",
+    "extracted_by": "gemini",
+    "wikidata_id": "Q147707",
+    "compounds": [
+      {
+        "name": "Yamogenin",
+        "wikidata_id": "Q8048088",
+        "found_in_taxa": 16,
+        "wikipedia_links": 8
+      },
+      {
+        "name": "tomatidine",
+        "wikidata_id": "Q27108452",
+        "found_in_taxa": 13,
+        "wikipedia_links": 4
+      },
+      {
+        "name": "solasonine",
+        "wikidata_id": "Q7557107",
+        "found_in_taxa": 41,
+        "wikipedia_links": 10
+      },
+      {
+        "name": "solamargine",
+        "wikidata_id": "Q3489126",
+        "found_in_taxa": 50,
+        "wikipedia_links": 12
+      },
+      {
+        "name": "solasodine",
+        "wikidata_id": "Q740439",
+        "found_in_taxa": 49,
+        "wikipedia_links": 10
+      },
+      {
+        "name": "campesterol",
+        "wikidata_id": "Q2756479",
+        "found_in_taxa": 479,
+        "wikipedia_links": 15
+      },
+      {
+        "name": "quercitrin",
+        "wikidata_id": "Q1649777",
+        "found_in_taxa": 554,
+        "wikipedia_links": 12
+      },
+      {
+        "name": "taraxasterol",
+        "wikidata_id": "Q27108380",
+        "found_in_taxa": 200,
+        "wikipedia_links": 4
+      }
+    ],
+    "compounds_total": 58
+  },
+  {
+    "id": 3,
+    "plant_name": "ALKANET",
+    "scientific_name": "Alkanna tinctoria",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "ulcers (old ulcers)",
+      "inflammations (hot inflammations)",
+      "burns (burnings by common fire)",
+      "erysipelas (St. Anthony's fire)",
+      "skin blemishes (morphew)",
+      "leprosy",
+      "retained dead fetus (dead child)",
+      "jaundice (yellow jaundice)",
+      "spleen disorders (spleen)",
+      "kidney stones (gravel in the kidneys)",
+      "venomous bites (bitten by a venomous beast)",
+      "diarrhea (flux of the belly)",
+      "worms",
+      "hysteria (fits of the mother)",
+      "back pain",
+      "bruises",
+      "falls",
+      "smallpox (small pox)",
+      "measles",
+      "wounds (green wounds)",
+      "pricks",
+      "thrusts"
+    ],
+    "parts_used": [
+      "root",
+      "herb"
+    ],
+    "preparations": [
+      "ointment",
+      "vinegar",
+      "decoction"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "It helps the yellow jaundice, spleen, and gravel in the kidneys.",
+    "source_quote_verified": true,
+    "model": "gemini-3.6-flash",
+    "extracted_by": "gemini",
+    "wikidata_id": "Q856964",
+    "compounds": [
+      {
+        "name": "alkannin",
+        "wikidata_id": "Q418237",
+        "found_in_taxa": 6,
+        "wikipedia_links": 15
+      },
+      {
+        "name": "triangularine",
+        "wikidata_id": "Q27108463",
+        "found_in_taxa": 6,
+        "wikipedia_links": 2
+      }
+    ],
+    "compounds_total": 8
+  },
+  {
+    "id": 4,
+    "plant_name": "ADDER’S TONGUE OR SERPENT’S TONGUE",
+    "scientific_name": "Ophioglossum vulgatum",
+    "scientific_name_confidence": "high",
+    "indications": [
+      "wounds",
+      "vomiting (casting, vomiting)",
+      "bleeding at the mouth or nose",
+      "excessive menstruation (their usual courses)",
+      "vaginal discharge (the whites)",
+      "sore eyes",
+      "ulcers (old and inveterate ulcers)",
+      "inflammations"
+    ],
+    "parts_used": [
+      "leaves"
+    ],
+    "preparations": [
+      "juice",
+      "balsam",
+      "oil"
+    ],
+    "ancient_dosage": null,
+    "source_quote": "It helps sore eyes.",
+    "source_quote_verified": true,
+    "model": "gemini-3.6-flash",
+    "extracted_by": "gemini",
+    "wikidata_id": "Q847497",
+    "compounds": [],
+    "compounds_total": 0
+  }
+]
